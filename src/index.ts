@@ -1,7 +1,7 @@
 import app from "./app";
 import mongoDBConnection from "./config/database";
-import data from "./data/category_dataset.json";
-import Category from "./model/category.model";
+// import data from "./data/category_dataset.json";
+// import Category from "./model/category.model";
 
 const PORT = process.env.PORT || 0;
 

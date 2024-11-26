@@ -13,3 +13,4 @@
 .pnp.*
 
 .vercel
+.env*.local
