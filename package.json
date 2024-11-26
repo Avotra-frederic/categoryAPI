@@ -1,6 +1,6 @@
 {
   "name": "categoryAPI",
-  "packageManager": "yarn@4.5.1",
+  "packageManager": "yarn@4.5.2",
   "dependencies": {
     "@types/bcryptjs": "^2.4.6",
     "agenda": "^5.0.0",
@@ -42,7 +42,7 @@
     "@types/mongoose": "^5.11.97",
     "@types/morgan": "^1.9.9",
     "@types/multer": "^1.4.12",
-    "@types/node": "^22.7.9",
+    "@types/node": "^22.10.0",
     "@types/nodemon": "^1.19.6",
     "eslint": "^9.13.0",
     "prettier": "^3.3.3"

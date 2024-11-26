@@ -1,0 +1,2306 @@
+[
+    { "Category": "Sports & Outdoors ", "Parent": null },
+    { "Category": " Outdoor Recreation ", "Parent": "Sports & Outdoors " },
+    {
+        "Category": " Skates, Skateboards & Scooters ",
+        "Parent": " Outdoor Recreation "
+    },
+    {
+        "Category": " Skateboarding ",
+        "Parent": " Skates, Skateboards & Scooters "
+    },
+    {
+        "Category": " Standard Skateboards & Longboards ",
+        "Parent": " Skateboarding "
+    },
+    {
+        "Category": " Longboards",
+        "Parent": " Standard Skateboards & Longboards "
+    },
+    {
+        "Category": " Standard Skateboards",
+        "Parent": " Standard Skateboards & Longboards "
+    },
+    { "Category": " Protective Gear", "Parent": " Skateboarding " },
+    { "Category": " Protective Gear ", "Parent": " Skateboarding " },
+    { "Category": " Elbow Pads", "Parent": " Protective Gear " },
+    { "Category": " Knee Pads", "Parent": " Protective Gear " },
+    { "Category": " Wrist Guards", "Parent": " Protective Gear " },
+    { "Category": " Padded Shorts", "Parent": " Protective Gear " },
+    { "Category": " Helmets", "Parent": " Skateboarding " },
+    {
+        "Category": " Inline & Roller Skating ",
+        "Parent": " Skates, Skateboards & Scooters "
+    },
+    { "Category": " Inline Skates", "Parent": " Inline & Roller Skating " },
+    { "Category": " Roller Skates", "Parent": " Inline & Roller Skating " },
+    { "Category": " Inline Skates ", "Parent": " Inline & Roller Skating " },
+    { "Category": " Children's Inline Skates", "Parent": " Inline Skates " },
+    { "Category": " Racing Skates", "Parent": " Inline Skates " },
+    { "Category": " Inline Skate Parts ", "Parent": " Inline & Roller Skating " },
+    { "Category": " Wheels", "Parent": " Inline Skate Parts " },
+    { "Category": " Roller Skate Parts ", "Parent": " Inline & Roller Skating " },
+    { "Category": " Wheels", "Parent": " Roller Skate Parts " },
+    { "Category": " Laces", "Parent": " Roller Skate Parts " },
+    { "Category": " Roller Skates ", "Parent": " Inline & Roller Skating " },
+    { "Category": " Roller Derby Skates", "Parent": " Roller Skates " },
+    { "Category": " Children's Roller Skates", "Parent": " Roller Skates " },
+    { "Category": " Outdoor Skates", "Parent": " Roller Skates " },
+    { "Category": " Speed Skates", "Parent": " Roller Skates " },
+    {
+        "Category": " Scooters & Equipment ",
+        "Parent": " Skates, Skateboards & Scooters "
+    },
+    { "Category": " Scooters", "Parent": " Scooters & Equipment " },
+    { "Category": " Accessories", "Parent": " Scooters & Equipment " },
+    { "Category": " Components & Parts", "Parent": " Scooters & Equipment " },
+    { "Category": " Components & Parts ", "Parent": " Scooters & Equipment " },
+    { "Category": " Replacement Wheels", "Parent": " Components & Parts " },
+    { "Category": " Scooters ", "Parent": " Scooters & Equipment " },
+    { "Category": " Kick Scooters", "Parent": " Scooters " },
+    { "Category": " Self Balancing Scooters", "Parent": " Scooters " },
+    { "Category": " Stunt Scooters", "Parent": " Scooters " },
+    {
+        "Category": " Scooters & Equipment",
+        "Parent": " Skates, Skateboards & Scooters "
+    },
+    {
+        "Category": " Inline & Roller Skating",
+        "Parent": " Skates, Skateboards & Scooters "
+    },
+    {
+        "Category": " Skateboarding",
+        "Parent": " Skates, Skateboards & Scooters "
+    },
+    { "Category": " Cycling ", "Parent": " Outdoor Recreation " },
+    { "Category": " Kids' Bikes & Accessories ", "Parent": " Cycling " },
+    { "Category": " Kids' Bikes", "Parent": " Kids' Bikes & Accessories " },
+    { "Category": " Kids' Helmets", "Parent": " Kids' Bikes & Accessories " },
+    { "Category": " Kids' Accessories", "Parent": " Kids' Bikes & Accessories " },
+    {
+        "Category": " Kids' Protective Gear",
+        "Parent": " Kids' Bikes & Accessories "
+    },
+    { "Category": " Kids' Tricycles", "Parent": " Kids' Bikes & Accessories " },
+    { "Category": " Bikes", "Parent": " Cycling " },
+    { "Category": " Accessories ", "Parent": " Cycling " },
+    { "Category": " Lights & Reflectors ", "Parent": " Accessories " },
+    { "Category": " Taillights", "Parent": " Lights & Reflectors " },
+    {
+        "Category": " Headlight-Taillight Combinations",
+        "Parent": " Lights & Reflectors "
+    },
+    { "Category": " Bike Bells", "Parent": " Accessories " },
+    { "Category": " Child Seats & Cargo Trailers ", "Parent": " Cycling " },
+    { "Category": " Trailers ", "Parent": " Child Seats & Cargo Trailers " },
+    { "Category": " Child Carrier Trailers", "Parent": " Trailers " },
+    { "Category": " Helmets & Accessories ", "Parent": " Cycling " },
+    { "Category": " Adult Helmets", "Parent": " Helmets & Accessories " },
+    { "Category": " Winter Sports ", "Parent": " Outdoor Recreation " },
+    { "Category": " Sledding ", "Parent": " Winter Sports " },
+    { "Category": " Snow Sleds", "Parent": " Sledding " },
+    { "Category": " Water Sports ", "Parent": " Outdoor Recreation " },
+    { "Category": " Diving & Snorkeling ", "Parent": " Water Sports " },
+    { "Category": " Diving Fins", "Parent": " Diving & Snorkeling " },
+    { "Category": " Regulators", "Parent": " Diving & Snorkeling " },
+    { "Category": " Diving Lights", "Parent": " Diving & Snorkeling " },
+    { "Category": " Kayaking", "Parent": " Water Sports " },
+    { "Category": " Canoeing ", "Parent": " Water Sports " },
+    { "Category": " Paddles", "Parent": " Canoeing " },
+    { "Category": " Accessories ", "Parent": " Outdoor Recreation " },
+    { "Category": " Accessory & Keychain Carabiners", "Parent": " Accessories " },
+    { "Category": " Cycling", "Parent": " Outdoor Recreation " },
+    { "Category": " Sports & Fitness ", "Parent": "Sports & Outdoors " },
+    { "Category": " Team Sports", "Parent": " Sports & Fitness " },
+    { "Category": " Team Sports ", "Parent": " Sports & Fitness " },
+    { "Category": " Volleyball ", "Parent": " Team Sports " },
+    { "Category": " Volleyballs ", "Parent": " Volleyball " },
+    { "Category": " Outdoor Volleyballs", "Parent": " Volleyballs " },
+    { "Category": " Volleyballs", "Parent": " Volleyball " },
+    { "Category": " Baseball ", "Parent": " Team Sports " },
+    { "Category": " Baseballs", "Parent": " Baseball " },
+    { "Category": " Protective Gear ", "Parent": " Baseball " },
+    { "Category": " Batting Helmets", "Parent": " Protective Gear " },
+    { "Category": " Basketball ", "Parent": " Team Sports " },
+    { "Category": " Basketballs", "Parent": " Basketball " },
+    { "Category": " Ice Hockey", "Parent": " Team Sports " },
+    { "Category": " Other Team Sports ", "Parent": " Team Sports " },
+    { "Category": " Roller Hockey ", "Parent": " Other Team Sports " },
+    { "Category": " Balls & Pucks", "Parent": " Roller Hockey " },
+    { "Category": " Skates", "Parent": " Roller Hockey " },
+    { "Category": " Soccer", "Parent": " Team Sports " },
+    { "Category": " Ice Hockey ", "Parent": " Team Sports " },
+    { "Category": " Accessories ", "Parent": " Ice Hockey " },
+    { "Category": " Skate Accessories", "Parent": " Accessories " },
+    { "Category": " Pucks", "Parent": " Ice Hockey " },
+    { "Category": " Player Equipment ", "Parent": " Ice Hockey " },
+    { "Category": " Goalkeeper Equipment ", "Parent": " Player Equipment " },
+    { "Category": " Sticks", "Parent": " Goalkeeper Equipment " },
+    { "Category": " Soccer ", "Parent": " Team Sports " },
+    { "Category": " Balls", "Parent": " Soccer " },
+    {
+        "Category": " Leisure Sports & Game Room ",
+        "Parent": " Sports & Fitness "
+    },
+    {
+        "Category": " Outdoor Games & Activities ",
+        "Parent": " Leisure Sports & Game Room "
+    },
+    { "Category": " Balls ", "Parent": " Outdoor Games & Activities " },
+    { "Category": " Playground Balls", "Parent": " Balls " },
+    { "Category": " Kickballs", "Parent": " Balls " },
+    { "Category": " Tetherball", "Parent": " Outdoor Games & Activities " },
+    { "Category": " Disc Sports ", "Parent": " Outdoor Games & Activities " },
+    { "Category": " Flying Discs", "Parent": " Disc Sports " },
+    { "Category": " Disc Golf ", "Parent": " Disc Sports " },
+    { "Category": " Starter Sets", "Parent": " Disc Golf " },
+    { "Category": " Ultimate", "Parent": " Disc Sports " },
+    { "Category": " Balls", "Parent": " Outdoor Games & Activities " },
+    { "Category": " Toss Games ", "Parent": " Outdoor Games & Activities " },
+    { "Category": " Ladder Ball", "Parent": " Toss Games " },
+    { "Category": " Cornhole ", "Parent": " Toss Games " },
+    { "Category": " Cornhole Bags", "Parent": " Cornhole " },
+    { "Category": " Toss Games", "Parent": " Outdoor Games & Activities " },
+    { "Category": " Bocce ", "Parent": " Outdoor Games & Activities " },
+    { "Category": " Bocce Sets", "Parent": " Bocce " },
+    { "Category": " Croquet", "Parent": " Outdoor Games & Activities " },
+    {
+        "Category": " Arcade & Table Games ",
+        "Parent": " Leisure Sports & Game Room "
+    },
+    { "Category": " Air Hockey", "Parent": " Arcade & Table Games " },
+    { "Category": " Shuffleboard ", "Parent": " Arcade & Table Games " },
+    { "Category": " Shuffleboard Tables", "Parent": " Shuffleboard " },
+    { "Category": " Shuffleboard Accessories", "Parent": " Shuffleboard " },
+    { "Category": " Foosball ", "Parent": " Arcade & Table Games " },
+    { "Category": " Foosball Tables", "Parent": " Foosball " },
+    { "Category": " Foosball Accessories", "Parent": " Foosball " },
+    { "Category": " Combination Tables", "Parent": " Arcade & Table Games " },
+    { "Category": " Electronic Basketball", "Parent": " Arcade & Table Games " },
+    { "Category": " Drinking Games", "Parent": " Arcade & Table Games " },
+    { "Category": " Table Tennis ", "Parent": " Leisure Sports & Game Room " },
+    { "Category": " Table Tennis Sets", "Parent": " Table Tennis " },
+    {
+        "Category": " Trampolines & Accessories ",
+        "Parent": " Leisure Sports & Game Room "
+    },
+    {
+        "Category": " Parts & Accessories",
+        "Parent": " Trampolines & Accessories "
+    },
+    { "Category": " Trampolines", "Parent": " Trampolines & Accessories " },
+    {
+        "Category": " Parts & Accessories ",
+        "Parent": " Trampolines & Accessories "
+    },
+    { "Category": " Mats", "Parent": " Parts & Accessories " },
+    { "Category": " Parts", "Parent": " Parts & Accessories " },
+    {
+        "Category": " Casino Equipment ",
+        "Parent": " Leisure Sports & Game Room "
+    },
+    { "Category": " Blackjack Equipment ", "Parent": " Casino Equipment " },
+    { "Category": " Blackjack Sets", "Parent": " Blackjack Equipment " },
+    { "Category": " Bingo Equipment ", "Parent": " Casino Equipment " },
+    { "Category": " Bingo Sets", "Parent": " Bingo Equipment " },
+    {
+        "Category": " Trampolines & Accessories",
+        "Parent": " Leisure Sports & Game Room "
+    },
+    {
+        "Category": " Outdoor Games & Activities",
+        "Parent": " Leisure Sports & Game Room "
+    },
+    {
+        "Category": " Arcade & Table Games",
+        "Parent": " Leisure Sports & Game Room "
+    },
+    { "Category": " Tennis & Racquet Sports ", "Parent": " Sports & Fitness " },
+    { "Category": " Tennis ", "Parent": " Tennis & Racquet Sports " },
+    { "Category": " Accessories ", "Parent": " Tennis " },
+    { "Category": " Racquet Accessories ", "Parent": " Accessories " },
+    { "Category": " Vibration Dampeners", "Parent": " Racquet Accessories " },
+    { "Category": " Court Equipment ", "Parent": " Tennis " },
+    { "Category": " Ball Hoppers", "Parent": " Court Equipment " },
+    { "Category": " Tennis", "Parent": " Tennis & Racquet Sports " },
+    { "Category": " Accessories ", "Parent": " Sports & Fitness " },
+    { "Category": " Coach & Referee Gear ", "Parent": " Accessories " },
+    { "Category": " Megaphones", "Parent": " Coach & Referee Gear " },
+    { "Category": " Field, Court & Rink Equipment ", "Parent": " Accessories " },
+    {
+        "Category": " Basketball Court Equipment ",
+        "Parent": " Field, Court & Rink Equipment "
+    },
+    {
+        "Category": " Basketball Hoops & Goals ",
+        "Parent": " Basketball Court Equipment "
+    },
+    { "Category": " Portable", "Parent": " Basketball Hoops & Goals " },
+    { "Category": " In-Ground", "Parent": " Basketball Hoops & Goals " },
+    {
+        "Category": " Backboard Components ",
+        "Parent": " Basketball Court Equipment "
+    },
+    { "Category": " Nets", "Parent": " Backboard Components " },
+    { "Category": " Rims", "Parent": " Backboard Components " },
+    {
+        "Category": " Soccer Field Equipment ",
+        "Parent": " Field, Court & Rink Equipment "
+    },
+    { "Category": " Goals", "Parent": " Soccer Field Equipment " },
+    { "Category": " Inflation Devices & Accessories", "Parent": " Accessories " },
+    { "Category": " Ball Storage", "Parent": " Accessories " },
+    { "Category": " Hunting & Fishing ", "Parent": " Sports & Fitness " },
+    {
+        "Category": " Tactical & Personal Defense ",
+        "Parent": " Hunting & Fishing "
+    },
+    {
+        "Category": " Personal Defense Equipment",
+        "Parent": " Tactical & Personal Defense "
+    },
+    { "Category": " Fishing ", "Parent": " Hunting & Fishing " },
+    { "Category": " Rods", "Parent": " Fishing " },
+    { "Category": " Fishing Tools & Accessories ", "Parent": " Fishing " },
+    {
+        "Category": " Pliers & Multi-Tools",
+        "Parent": " Fishing Tools & Accessories "
+    },
+    { "Category": " Reels", "Parent": " Fishing " },
+    { "Category": " Fly Fishing ", "Parent": " Fishing " },
+    { "Category": " Rods", "Parent": " Fly Fishing " },
+    { "Category": " Hunting ", "Parent": " Hunting & Fishing " },
+    { "Category": " Knives & Tools ", "Parent": " Hunting " },
+    { "Category": " Hunting Knives", "Parent": " Knives & Tools " },
+    { "Category": " Fishing", "Parent": " Hunting & Fishing " },
+    { "Category": " Other Sports ", "Parent": " Sports & Fitness " },
+    { "Category": " Gymnastics ", "Parent": " Other Sports " },
+    { "Category": " Accessories ", "Parent": " Gymnastics " },
+    { "Category": " Parachutes", "Parent": " Accessories " },
+    { "Category": " Mats & Flooring ", "Parent": " Gymnastics " },
+    { "Category": " Mats ", "Parent": " Mats & Flooring " },
+    { "Category": " Landing Mats", "Parent": " Mats " },
+    { "Category": " Martial Arts ", "Parent": " Other Sports " },
+    { "Category": " Protective Gear ", "Parent": " Martial Arts " },
+    { "Category": " Hand Wraps", "Parent": " Protective Gear " },
+    { "Category": " Gymnastics", "Parent": " Other Sports " },
+    { "Category": " Boxing", "Parent": " Other Sports " },
+    { "Category": " Fencing", "Parent": " Other Sports " },
+    { "Category": " Equestrian Sports ", "Parent": " Other Sports " },
+    { "Category": " Tack ", "Parent": " Equestrian Sports " },
+    { "Category": " Halters & Leads ", "Parent": " Tack " },
+    { "Category": " Halters", "Parent": " Halters & Leads " },
+    { "Category": " Boating & Sailing ", "Parent": " Sports & Fitness " },
+    { "Category": " Boating", "Parent": " Boating & Sailing " },
+    { "Category": " Exercise & Fitness ", "Parent": " Sports & Fitness " },
+    { "Category": " Accessories ", "Parent": " Exercise & Fitness " },
+    { "Category": " Exercise Mats", "Parent": " Accessories " },
+    { "Category": " Medicine Balls", "Parent": " Accessories " },
+    { "Category": " Leisure Sports & Game Room", "Parent": " Sports & Fitness " },
+    { "Category": " Swimming", "Parent": " Sports & Fitness " },
+    { "Category": " Swimming ", "Parent": " Sports & Fitness " },
+    { "Category": " Training Equipment ", "Parent": " Swimming " },
+    { "Category": " Training Fins", "Parent": " Training Equipment " },
+    { "Category": " Fan Shop ", "Parent": "Sports & Outdoors " },
+    { "Category": " Toys & Game Room ", "Parent": " Fan Shop " },
+    { "Category": " Games", "Parent": " Toys & Game Room " },
+    { "Category": " Toy Vehicles", "Parent": " Toys & Game Room " },
+    {
+        "Category": " Action Figures & Toy Figurines",
+        "Parent": " Toys & Game Room "
+    },
+    { "Category": " Electronics ", "Parent": " Fan Shop " },
+    { "Category": " Computer Accessories", "Parent": " Electronics " },
+    { "Category": " Toys & Game Room", "Parent": " Fan Shop " },
+    { "Category": " Sports Equipment ", "Parent": " Fan Shop " },
+    { "Category": " Basketball Equipment ", "Parent": " Sports Equipment " },
+    { "Category": " Basketballs", "Parent": " Basketball Equipment " },
+    { "Category": " Home & Kitchen ", "Parent": " Fan Shop " },
+    { "Category": " D\u00e9cor", "Parent": " Home & Kitchen " },
+    { "Category": " Bedding ", "Parent": " Home & Kitchen " },
+    { "Category": " Throw Pillows", "Parent": " Bedding " },
+    { "Category": " Kitchen & Dining", "Parent": " Home & Kitchen " },
+    { "Category": " Furniture", "Parent": " Home & Kitchen " },
+    { "Category": " Gameday & Tailgating ", "Parent": " Fan Shop " },
+    {
+        "Category": " Disposable Cups & Plates ",
+        "Parent": " Gameday & Tailgating "
+    },
+    { "Category": " Disposable Cups", "Parent": " Disposable Cups & Plates " },
+    { "Category": " Clothing Accessories ", "Parent": " Fan Shop " },
+    { "Category": " Caps & Hats ", "Parent": " Clothing Accessories " },
+    { "Category": " Baseball Caps", "Parent": " Caps & Hats " },
+    { "Category": " Outdoor Recreation", "Parent": "Sports & Outdoors " },
+    { "Category": " Fan Shop", "Parent": "Sports & Outdoors " },
+    { "Category": "Toys & Games ", "Parent": null },
+    { "Category": " Learning & Education ", "Parent": "Toys & Games " },
+    { "Category": " Science Kits & Toys", "Parent": " Learning & Education " },
+    { "Category": " Flash Cards", "Parent": " Learning & Education " },
+    { "Category": " Counting & Math Toys", "Parent": " Learning & Education " },
+    { "Category": " Reading & Writing ", "Parent": " Learning & Education " },
+    {
+        "Category": " Diaries, Journals & Notebooks",
+        "Parent": " Reading & Writing "
+    },
+    { "Category": " Handwriting Aids", "Parent": " Reading & Writing " },
+    { "Category": " Magnetic Letters & Words", "Parent": " Reading & Writing " },
+    { "Category": " Musical Instruments", "Parent": " Learning & Education " },
+    { "Category": " Musical Instruments ", "Parent": " Learning & Education " },
+    { "Category": " Drums & Percussion", "Parent": " Musical Instruments " },
+    { "Category": " Pianos & Keyboards", "Parent": " Musical Instruments " },
+    { "Category": " Guitars & Strings", "Parent": " Musical Instruments " },
+    { "Category": " Wind & Brass", "Parent": " Musical Instruments " },
+    { "Category": " Geographic Globes", "Parent": " Learning & Education " },
+    { "Category": " Optics ", "Parent": " Learning & Education " },
+    { "Category": " Microscopes", "Parent": " Optics " },
+    { "Category": " Telescopes", "Parent": " Optics " },
+    {
+        "Category": " Electronic Learning Products",
+        "Parent": " Learning & Education "
+    },
+    { "Category": " Habitats", "Parent": " Learning & Education " },
+    { "Category": " Arts & Crafts ", "Parent": "Toys & Games " },
+    { "Category": " Craft Kits", "Parent": " Arts & Crafts " },
+    { "Category": " Drawing & Painting Supplies ", "Parent": " Arts & Crafts " },
+    { "Category": " Crayons", "Parent": " Drawing & Painting Supplies " },
+    { "Category": " Colored Pencils", "Parent": " Drawing & Painting Supplies " },
+    { "Category": " Chalk", "Parent": " Drawing & Painting Supplies " },
+    { "Category": " Paints ", "Parent": " Drawing & Painting Supplies " },
+    { "Category": " Watercolor Paint", "Parent": " Paints " },
+    { "Category": " Finger Paint", "Parent": " Paints " },
+    { "Category": " Tempera & Poster Paint", "Parent": " Paints " },
+    {
+        "Category": " Crayon Sharpeners",
+        "Parent": " Drawing & Painting Supplies "
+    },
+    { "Category": " Pencil Erasers", "Parent": " Drawing & Painting Supplies " },
+    {
+        "Category": " Coloring Pens & Markers",
+        "Parent": " Drawing & Painting Supplies "
+    },
+    { "Category": " Paints", "Parent": " Drawing & Painting Supplies " },
+    { "Category": " Pencils", "Parent": " Drawing & Painting Supplies " },
+    { "Category": " Paintbrushes", "Parent": " Drawing & Painting Supplies " },
+    { "Category": " Clay & Dough", "Parent": " Arts & Crafts " },
+    { "Category": " Craft Kits ", "Parent": " Arts & Crafts " },
+    { "Category": " Jewelry", "Parent": " Craft Kits " },
+    { "Category": " Paint with Water Kits", "Parent": " Craft Kits " },
+    { "Category": " Felt Kits", "Parent": " Craft Kits " },
+    { "Category": " Wood", "Parent": " Craft Kits " },
+    { "Category": " Sewing", "Parent": " Craft Kits " },
+    { "Category": " Paper Craft", "Parent": " Craft Kits " },
+    { "Category": " Sand Art", "Parent": " Craft Kits " },
+    { "Category": " Paint-By-Number Kits", "Parent": " Craft Kits " },
+    { "Category": " Mosaics", "Parent": " Craft Kits " },
+    { "Category": " Flower Pressing", "Parent": " Craft Kits " },
+    { "Category": " Scrapbooking", "Parent": " Craft Kits " },
+    { "Category": " Stickers", "Parent": " Arts & Crafts " },
+    { "Category": " Adhesives", "Parent": " Arts & Crafts " },
+    { "Category": " Drawing & Painting Supplies", "Parent": " Arts & Crafts " },
+    { "Category": " Aprons & Smocks", "Parent": " Arts & Crafts " },
+    { "Category": " Printing & Stamping", "Parent": " Arts & Crafts " },
+    { "Category": " Easels", "Parent": " Arts & Crafts " },
+    { "Category": " Drawing & Writing Boards", "Parent": " Arts & Crafts " },
+    { "Category": " Hobbies ", "Parent": "Toys & Games " },
+    { "Category": " Models & Model Kits ", "Parent": " Hobbies " },
+    { "Category": " Model Kits ", "Parent": " Models & Model Kits " },
+    { "Category": " Airplane & Jet Kits", "Parent": " Model Kits " },
+    { "Category": " Figure Kits", "Parent": " Model Kits " },
+    { "Category": " Watercraft Kits", "Parent": " Model Kits " },
+    { "Category": " Motorcycle Kits", "Parent": " Model Kits " },
+    { "Category": " Helicopter Kits", "Parent": " Model Kits " },
+    { "Category": " Architecture Kits", "Parent": " Model Kits " },
+    {
+        "Category": " Pre-Built & Diecast Models ",
+        "Parent": " Models & Model Kits "
+    },
+    { "Category": " Vehicles", "Parent": " Pre-Built & Diecast Models " },
+    { "Category": " Aircraft", "Parent": " Pre-Built & Diecast Models " },
+    { "Category": " Spacecraft", "Parent": " Pre-Built & Diecast Models " },
+    { "Category": " Watercraft", "Parent": " Pre-Built & Diecast Models " },
+    { "Category": " Model Kits", "Parent": " Models & Model Kits " },
+    {
+        "Category": " Pre-Built & Diecast Models",
+        "Parent": " Models & Model Kits "
+    },
+    { "Category": " Diorama Kits", "Parent": " Models & Model Kits " },
+    { "Category": " Hobby Building Tools & Hardware ", "Parent": " Hobbies " },
+    { "Category": " RC Linkages", "Parent": " Hobby Building Tools & Hardware " },
+    { "Category": " Paints", "Parent": " Hobby Building Tools & Hardware " },
+    {
+        "Category": " Magnifying Tools",
+        "Parent": " Hobby Building Tools & Hardware "
+    },
+    {
+        "Category": " Hobby Tool Sets",
+        "Parent": " Hobby Building Tools & Hardware "
+    },
+    {
+        "Category": " Painting Tools",
+        "Parent": " Hobby Building Tools & Hardware "
+    },
+    { "Category": " Trains & Accessories ", "Parent": " Hobbies " },
+    { "Category": " Train Cars ", "Parent": " Trains & Accessories " },
+    { "Category": " Freight Cars ", "Parent": " Train Cars " },
+    { "Category": " Gondolas", "Parent": " Freight Cars " },
+    { "Category": " Flatcars", "Parent": " Freight Cars " },
+    { "Category": " Boxcars", "Parent": " Freight Cars " },
+    { "Category": " Hoppers", "Parent": " Freight Cars " },
+    { "Category": " Tank Cars", "Parent": " Freight Cars " },
+    { "Category": " Stock Cars", "Parent": " Freight Cars " },
+    { "Category": " Reefers", "Parent": " Freight Cars " },
+    { "Category": " Freight Cars", "Parent": " Train Cars " },
+    { "Category": " Locomotives ", "Parent": " Train Cars " },
+    { "Category": " Diesel", "Parent": " Locomotives " },
+    { "Category": " Steam", "Parent": " Locomotives " },
+    { "Category": " Electric", "Parent": " Locomotives " },
+    { "Category": " Locomotives", "Parent": " Train Cars " },
+    { "Category": " Passenger Cars", "Parent": " Train Cars " },
+    { "Category": " Train Cars", "Parent": " Trains & Accessories " },
+    { "Category": " Accessories ", "Parent": " Trains & Accessories " },
+    { "Category": " Tracks", "Parent": " Accessories " },
+    { "Category": " Buildings & Structures", "Parent": " Accessories " },
+    { "Category": " Scenery", "Parent": " Accessories " },
+    { "Category": " Figures", "Parent": " Accessories " },
+    { "Category": " Bridges & Tunnels ", "Parent": " Accessories " },
+    { "Category": " Tunnels", "Parent": " Bridges & Tunnels " },
+    { "Category": " Bridges", "Parent": " Bridges & Tunnels " },
+    { "Category": " Scratch Building Supplies", "Parent": " Accessories " },
+    { "Category": " Vehicles, Boats & Airplanes", "Parent": " Accessories " },
+    { "Category": " Couplers & Trucks", "Parent": " Accessories " },
+    { "Category": " Train Signals, Signs & Lights", "Parent": " Accessories " },
+    { "Category": " Train Sets", "Parent": " Trains & Accessories " },
+    { "Category": " Accessories", "Parent": " Trains & Accessories " },
+    {
+        "Category": " Remote & App Controlled Vehicles & Parts ",
+        "Parent": " Hobbies "
+    },
+    {
+        "Category": " Remote & App Controlled Vehicle Parts",
+        "Parent": " Remote & App Controlled Vehicles & Parts "
+    },
+    {
+        "Category": " Remote & App Controlled Vehicle Parts ",
+        "Parent": " Remote & App Controlled Vehicles & Parts "
+    },
+    {
+        "Category": " Wheels & Tires ",
+        "Parent": " Remote & App Controlled Vehicle Parts "
+    },
+    { "Category": " Tires", "Parent": " Wheels & Tires " },
+    { "Category": " Aircraft Landing Gear", "Parent": " Wheels & Tires " },
+    { "Category": " Tire & Wheel Sets", "Parent": " Wheels & Tires " },
+    { "Category": " Wheels", "Parent": " Wheels & Tires " },
+    { "Category": " Wheel Hubs", "Parent": " Wheels & Tires " },
+    { "Category": " Accessories", "Parent": " Wheels & Tires " },
+    { "Category": " Tire Foam Inserts", "Parent": " Wheels & Tires " },
+    {
+        "Category": " Power Plant & Driveline Systems ",
+        "Parent": " Remote & App Controlled Vehicle Parts "
+    },
+    { "Category": " Axles", "Parent": " Power Plant & Driveline Systems " },
+    { "Category": " Propellers", "Parent": " Power Plant & Driveline Systems " },
+    {
+        "Category": " Rotor Shafts",
+        "Parent": " Power Plant & Driveline Systems "
+    },
+    { "Category": " Rotors", "Parent": " Power Plant & Driveline Systems " },
+    { "Category": " Bushings", "Parent": " Power Plant & Driveline Systems " },
+    {
+        "Category": " Servos & Parts ",
+        "Parent": " Remote & App Controlled Vehicle Parts "
+    },
+    { "Category": " Servos", "Parent": " Servos & Parts " },
+    { "Category": " Servo Horns", "Parent": " Servos & Parts " },
+    { "Category": " Servo Arms", "Parent": " Servos & Parts " },
+    { "Category": " Servo Mounts", "Parent": " Servos & Parts " },
+    { "Category": " Servo Plugs & Wires", "Parent": " Servos & Parts " },
+    { "Category": " Servo Gears", "Parent": " Servos & Parts " },
+    {
+        "Category": " Battery Chargers",
+        "Parent": " Remote & App Controlled Vehicle Parts "
+    },
+    {
+        "Category": " Remote & App Controlled Vehicle Batteries",
+        "Parent": " Remote & App Controlled Vehicle Parts "
+    },
+    {
+        "Category": " Vehicle Bodies & Scale Accessories",
+        "Parent": " Remote & App Controlled Vehicle Parts "
+    },
+    {
+        "Category": " Lighting",
+        "Parent": " Remote & App Controlled Vehicle Parts "
+    },
+    {
+        "Category": " Radios & Parts ",
+        "Parent": " Remote & App Controlled Vehicle Parts "
+    },
+    { "Category": " Radio Receivers", "Parent": " Radios & Parts " },
+    { "Category": " Transmitter & Receiver Sets", "Parent": " Radios & Parts " },
+    { "Category": " Radio Transmitters", "Parent": " Radios & Parts " },
+    {
+        "Category": " Servos & Parts",
+        "Parent": " Remote & App Controlled Vehicle Parts "
+    },
+    {
+        "Category": " Vehicle Bodies & Scale Accessories ",
+        "Parent": " Remote & App Controlled Vehicle Parts "
+    },
+    {
+        "Category": " Fuselages",
+        "Parent": " Vehicle Bodies & Scale Accessories "
+    },
+    { "Category": " Wings", "Parent": " Vehicle Bodies & Scale Accessories " },
+    {
+        "Category": " Power Plant & Driveline Systems",
+        "Parent": " Remote & App Controlled Vehicle Parts "
+    },
+    {
+        "Category": " Flight Gyroscopes & Governors",
+        "Parent": " Remote & App Controlled Vehicle Parts "
+    },
+    {
+        "Category": " Remote & App Controlled Vehicles ",
+        "Parent": " Remote & App Controlled Vehicles & Parts "
+    },
+    {
+        "Category": " Quadcopters & Multirotors",
+        "Parent": " Remote & App Controlled Vehicles "
+    },
+    { "Category": " Trucks", "Parent": " Remote & App Controlled Vehicles " },
+    { "Category": " Cars", "Parent": " Remote & App Controlled Vehicles " },
+    { "Category": " Crawlers", "Parent": " Remote & App Controlled Vehicles " },
+    { "Category": " Watercraft", "Parent": " Remote & App Controlled Vehicles " },
+    {
+        "Category": " Airplanes & Jets",
+        "Parent": " Remote & App Controlled Vehicles "
+    },
+    {
+        "Category": " Remote & App Controlled Vehicles",
+        "Parent": " Remote & App Controlled Vehicles & Parts "
+    },
+    {
+        "Category": " Slot Cars, Race Tracks & Accessories ",
+        "Parent": " Hobbies "
+    },
+    {
+        "Category": " Slot Cars",
+        "Parent": " Slot Cars, Race Tracks & Accessories "
+    },
+    {
+        "Category": " Race Tracks",
+        "Parent": " Slot Cars, Race Tracks & Accessories "
+    },
+    {
+        "Category": " Race Sets",
+        "Parent": " Slot Cars, Race Tracks & Accessories "
+    },
+    { "Category": " Rockets ", "Parent": " Hobbies " },
+    { "Category": " Rocket Accessories", "Parent": " Rockets " },
+    { "Category": " Model Rockets", "Parent": " Rockets " },
+    { "Category": " Model Rocket Kits", "Parent": " Rockets " },
+    { "Category": " Pinewood Derby", "Parent": " Hobbies " },
+    { "Category": " Hobby Building Tools & Hardware", "Parent": " Hobbies " },
+    {
+        "Category": " Slot Cars, Race Tracks & Accessories",
+        "Parent": " Hobbies "
+    },
+    { "Category": " Trains & Accessories", "Parent": " Hobbies " },
+    { "Category": " Coin Collecting", "Parent": " Hobbies " },
+    { "Category": " Rockets", "Parent": " Hobbies " },
+    { "Category": " Stamp Collecting", "Parent": " Hobbies " },
+    { "Category": " Models & Model Kits", "Parent": " Hobbies " },
+    {
+        "Category": " Remote & App Controlled Vehicles & Parts",
+        "Parent": " Hobbies "
+    },
+    { "Category": " Puzzles ", "Parent": "Toys & Games " },
+    { "Category": " Jigsaw Puzzles", "Parent": " Puzzles " },
+    { "Category": " Brain Teasers", "Parent": " Puzzles " },
+    { "Category": " Floor Puzzles", "Parent": " Puzzles " },
+    { "Category": " Pegged Puzzles", "Parent": " Puzzles " },
+    { "Category": " Brain Teasers ", "Parent": " Puzzles " },
+    {
+        "Category": " Assembly & Disentanglement Puzzles",
+        "Parent": " Brain Teasers "
+    },
+    { "Category": " Puzzle Boxes", "Parent": " Brain Teasers " },
+    { "Category": " Puzzle Play Mats", "Parent": " Puzzles " },
+    { "Category": " Baby & Toddler Toys", "Parent": "Toys & Games " },
+    { "Category": " Collectible Toys ", "Parent": "Toys & Games " },
+    {
+        "Category": " Statues, Bobbleheads & Busts ",
+        "Parent": " Collectible Toys "
+    },
+    { "Category": " Statues", "Parent": " Statues, Bobbleheads & Busts " },
+    { "Category": " Bobbleheads", "Parent": " Statues, Bobbleheads & Busts " },
+    {
+        "Category": " Statues, Bobbleheads & Busts",
+        "Parent": " Collectible Toys "
+    },
+    {
+        "Category": " Collectible Display & Storage ",
+        "Parent": " Collectible Toys "
+    },
+    {
+        "Category": " Display Cases & Stands ",
+        "Parent": " Collectible Display & Storage "
+    },
+    { "Category": " Display Cases", "Parent": " Display Cases & Stands " },
+    { "Category": " Display Stands", "Parent": " Display Cases & Stands " },
+    {
+        "Category": " Card Storage & Display ",
+        "Parent": " Collectible Display & Storage "
+    },
+    { "Category": " Protective Sleeves", "Parent": " Card Storage & Display " },
+    { "Category": " Cases", "Parent": " Card Storage & Display " },
+    { "Category": " Albums", "Parent": " Card Storage & Display " },
+    {
+        "Category": " Card Storage & Display",
+        "Parent": " Collectible Display & Storage "
+    },
+    { "Category": " Building Toys ", "Parent": "Toys & Games " },
+    { "Category": " Building Sets", "Parent": " Building Toys " },
+    { "Category": " Gear Sets", "Parent": " Building Toys " },
+    { "Category": " Marble Runs", "Parent": " Building Toys " },
+    { "Category": " Stacking Blocks", "Parent": " Building Toys " },
+    { "Category": " Baby & Toddler Toys ", "Parent": "Toys & Games " },
+    { "Category": " Musical Toys", "Parent": " Baby & Toddler Toys " },
+    { "Category": " Teaching Clocks", "Parent": " Baby & Toddler Toys " },
+    { "Category": " Sorting & Stacking Toys", "Parent": " Baby & Toddler Toys " },
+    { "Category": " Activity Play Centers", "Parent": " Baby & Toddler Toys " },
+    { "Category": " Rattles & Plush Rings", "Parent": " Baby & Toddler Toys " },
+    { "Category": " Bath Toys", "Parent": " Baby & Toddler Toys " },
+    {
+        "Category": " Car Seat & Stroller Toys",
+        "Parent": " Baby & Toddler Toys "
+    },
+    { "Category": " Stick Horses", "Parent": " Baby & Toddler Toys " },
+    { "Category": " Push & Pull Toys", "Parent": " Baby & Toddler Toys " },
+    {
+        "Category": " Indoor Climbers & Play Structures",
+        "Parent": " Baby & Toddler Toys "
+    },
+    { "Category": " Mirrors", "Parent": " Baby & Toddler Toys " },
+    {
+        "Category": " Hammering & Pounding Toys",
+        "Parent": " Baby & Toddler Toys "
+    },
+    { "Category": " Balls", "Parent": " Baby & Toddler Toys " },
+    { "Category": " Novelty & Gag Toys ", "Parent": "Toys & Games " },
+    { "Category": " Money Banks", "Parent": " Novelty & Gag Toys " },
+    { "Category": " Miniatures", "Parent": " Novelty & Gag Toys " },
+    { "Category": " Fidget Toys ", "Parent": " Novelty & Gag Toys " },
+    { "Category": " Fidget Spinners", "Parent": " Fidget Toys " },
+    { "Category": " Fidget Blocks", "Parent": " Fidget Toys " },
+    { "Category": " Magic Kits & Accessories", "Parent": " Novelty & Gag Toys " },
+    { "Category": " Magnets & Magnetic Toys", "Parent": " Novelty & Gag Toys " },
+    { "Category": " Executive Desk Toys", "Parent": " Novelty & Gag Toys " },
+    { "Category": " Flying Toys ", "Parent": " Novelty & Gag Toys " },
+    { "Category": " Toy Parachute Figures", "Parent": " Flying Toys " },
+    { "Category": " Airplane Construction Kits", "Parent": " Flying Toys " },
+    { "Category": " Slime & Putty Toys", "Parent": " Novelty & Gag Toys " },
+    {
+        "Category": " Finger Boards & Finger Bikes",
+        "Parent": " Novelty & Gag Toys "
+    },
+    { "Category": " Spy Gadgets", "Parent": " Novelty & Gag Toys " },
+    { "Category": " Flying Toys", "Parent": " Novelty & Gag Toys " },
+    { "Category": " Juggling Sets", "Parent": " Novelty & Gag Toys " },
+    { "Category": " Prisms & Kaleidoscopes", "Parent": " Novelty & Gag Toys " },
+    {
+        "Category": " Gag Toys & Practical Jokes",
+        "Parent": " Novelty & Gag Toys "
+    },
+    { "Category": " Fortune Telling Toys", "Parent": " Novelty & Gag Toys " },
+    { "Category": " Fidget Toys", "Parent": " Novelty & Gag Toys " },
+    { "Category": " Nesting Dolls", "Parent": " Novelty & Gag Toys " },
+    { "Category": " Sports & Outdoor Play ", "Parent": "Toys & Games " },
+    { "Category": " Slumber Bags", "Parent": " Sports & Outdoor Play " },
+    {
+        "Category": " Play Sets & Playground Equipment",
+        "Parent": " Sports & Outdoor Play "
+    },
+    {
+        "Category": " Play Sets & Playground Equipment ",
+        "Parent": " Sports & Outdoor Play "
+    },
+    {
+        "Category": " Teeter Totters",
+        "Parent": " Play Sets & Playground Equipment "
+    },
+    {
+        "Category": " Play & Swing Sets",
+        "Parent": " Play Sets & Playground Equipment "
+    },
+    {
+        "Category": " Play Set Attachments",
+        "Parent": " Play Sets & Playground Equipment "
+    },
+    {
+        "Category": " Freestanding Slides",
+        "Parent": " Play Sets & Playground Equipment "
+    },
+    {
+        "Category": " Parts & Hardware",
+        "Parent": " Play Sets & Playground Equipment "
+    },
+    {
+        "Category": " Play Set Attachments ",
+        "Parent": " Play Sets & Playground Equipment "
+    },
+    { "Category": " Swings", "Parent": " Play Set Attachments " },
+    {
+        "Category": " Ring & Trapeze Attachments",
+        "Parent": " Play Set Attachments "
+    },
+    { "Category": " Climber Attachments", "Parent": " Play Set Attachments " },
+    { "Category": " Slide Attachments", "Parent": " Play Set Attachments " },
+    {
+        "Category": " Freestanding Climbers",
+        "Parent": " Play Sets & Playground Equipment "
+    },
+    {
+        "Category": " Kites & Wind Spinners ",
+        "Parent": " Sports & Outdoor Play "
+    },
+    { "Category": " Kite Accessories", "Parent": " Kites & Wind Spinners " },
+    { "Category": " Wind Spinners", "Parent": " Kites & Wind Spinners " },
+    { "Category": " Kites", "Parent": " Kites & Wind Spinners " },
+    { "Category": " Blasters & Foam Play", "Parent": " Sports & Outdoor Play " },
+    {
+        "Category": " Ball Pits & Accessories",
+        "Parent": " Sports & Outdoor Play "
+    },
+    { "Category": " Pools & Water Toys ", "Parent": " Sports & Outdoor Play " },
+    { "Category": " Beach Balls", "Parent": " Pools & Water Toys " },
+    {
+        "Category": " Basketball & Volleyball Sets",
+        "Parent": " Pools & Water Toys "
+    },
+    { "Category": " Beach Toys", "Parent": " Pools & Water Toys " },
+    {
+        "Category": " Pool Rafts & Inflatable Ride-ons",
+        "Parent": " Pools & Water Toys "
+    },
+    { "Category": " Squirt Guns", "Parent": " Pools & Water Toys " },
+    { "Category": " Pool Toys", "Parent": " Pools & Water Toys " },
+    { "Category": " Pool Toys ", "Parent": " Pools & Water Toys " },
+    { "Category": " Swim Noodles", "Parent": " Pool Toys " },
+    { "Category": " Inflatable Water Slides", "Parent": " Pool Toys " },
+    { "Category": " Dive Rings & Toys", "Parent": " Pool Toys " },
+    { "Category": " Swim Rings", "Parent": " Pool Toys " },
+    { "Category": " Baby Floats", "Parent": " Pools & Water Toys " },
+    { "Category": " Lawn Water Slides", "Parent": " Pools & Water Toys " },
+    { "Category": " Sprinklers", "Parent": " Pools & Water Toys " },
+    { "Category": " Kiddie Pools", "Parent": " Pools & Water Toys " },
+    { "Category": " Play Tents & Tunnels", "Parent": " Sports & Outdoor Play " },
+    { "Category": " Pools & Water Toys", "Parent": " Sports & Outdoor Play " },
+    { "Category": " Yo-yos", "Parent": " Sports & Outdoor Play " },
+    { "Category": " Inflatable Bouncers", "Parent": " Sports & Outdoor Play " },
+    { "Category": " Sandboxes", "Parent": " Sports & Outdoor Play " },
+    {
+        "Category": " Nature Exploration Toys",
+        "Parent": " Sports & Outdoor Play "
+    },
+    { "Category": " Bean Bags & Footbags ", "Parent": " Sports & Outdoor Play " },
+    { "Category": " Bean Bag Game Sets", "Parent": " Bean Bags & Footbags " },
+    { "Category": " Footbags", "Parent": " Bean Bags & Footbags " },
+    { "Category": " Gardening Tools", "Parent": " Sports & Outdoor Play " },
+    { "Category": " Toy Sports ", "Parent": " Sports & Outdoor Play " },
+    { "Category": " Toy Golf", "Parent": " Toy Sports " },
+    { "Category": " Toy Basketball", "Parent": " Toy Sports " },
+    { "Category": " Toy Football", "Parent": " Toy Sports " },
+    { "Category": " Sand & Water Tables", "Parent": " Sports & Outdoor Play " },
+    { "Category": " Bubbles", "Parent": " Sports & Outdoor Play " },
+    { "Category": " Toy Sports", "Parent": " Sports & Outdoor Play " },
+    {
+        "Category": " Pogo Sticks & Hoppers ",
+        "Parent": " Sports & Outdoor Play "
+    },
+    { "Category": " Hoppers", "Parent": " Pogo Sticks & Hoppers " },
+    {
+        "Category": " Kickball & Playground Balls",
+        "Parent": " Sports & Outdoor Play "
+    },
+    { "Category": " Playhouses", "Parent": " Sports & Outdoor Play " },
+    { "Category": " Bean Bags & Footbags", "Parent": " Sports & Outdoor Play " },
+    { "Category": " Fitness Equipment", "Parent": " Sports & Outdoor Play " },
+    { "Category": " Pogo Sticks & Hoppers", "Parent": " Sports & Outdoor Play " },
+    { "Category": " Party Supplies ", "Parent": "Toys & Games " },
+    { "Category": " Party Tableware ", "Parent": " Party Supplies " },
+    { "Category": " Plates", "Parent": " Party Tableware " },
+    { "Category": " Napkins", "Parent": " Party Tableware " },
+    { "Category": " Cups", "Parent": " Party Tableware " },
+    { "Category": " Banners", "Parent": " Party Supplies " },
+    { "Category": " Party Packs", "Parent": " Party Supplies " },
+    { "Category": " Party Favors", "Parent": " Party Supplies " },
+    { "Category": " Balloons", "Parent": " Party Supplies " },
+    { "Category": " Tablecovers", "Parent": " Party Supplies " },
+    { "Category": " Party Hats", "Parent": " Party Supplies " },
+    { "Category": " Centerpieces", "Parent": " Party Supplies " },
+    { "Category": " Noisemakers", "Parent": " Party Supplies " },
+    { "Category": " Pi\u00f1atas", "Parent": " Party Supplies " },
+    { "Category": " Party Tableware", "Parent": " Party Supplies " },
+    { "Category": " Cake & Cupcake Toppers ", "Parent": " Party Supplies " },
+    { "Category": " Cake Toppers", "Parent": " Cake & Cupcake Toppers " },
+    { "Category": " Tricycles, Scooters & Wagons ", "Parent": "Toys & Games " },
+    { "Category": " Balance Bikes", "Parent": " Tricycles, Scooters & Wagons " },
+    {
+        "Category": " Pull-Along Wagons",
+        "Parent": " Tricycles, Scooters & Wagons "
+    },
+    {
+        "Category": " Ride-On Toys & Accessories",
+        "Parent": " Tricycles, Scooters & Wagons "
+    },
+    { "Category": " Pedal Cars", "Parent": " Tricycles, Scooters & Wagons " },
+    {
+        "Category": " Electric Vehicles",
+        "Parent": " Tricycles, Scooters & Wagons "
+    },
+    { "Category": " Kids Electronics", "Parent": "Toys & Games " },
+    { "Category": " Dress Up & Pretend Play ", "Parent": "Toys & Games " },
+    { "Category": " Costumes", "Parent": " Dress Up & Pretend Play " },
+    { "Category": " Pretend Play ", "Parent": " Dress Up & Pretend Play " },
+    { "Category": " Kitchen Toys", "Parent": " Pretend Play " },
+    { "Category": " Kitchen Toys ", "Parent": " Pretend Play " },
+    { "Category": " Play Food", "Parent": " Kitchen Toys " },
+    { "Category": " Kitchen Playsets", "Parent": " Kitchen Toys " },
+    { "Category": " Cookware", "Parent": " Kitchen Toys " },
+    { "Category": " Cooking & Baking Kits", "Parent": " Kitchen Toys " },
+    { "Category": " Paper & Magnetic Dolls ", "Parent": " Pretend Play " },
+    {
+        "Category": " Magnetic Dress-up Dolls",
+        "Parent": " Paper & Magnetic Dolls "
+    },
+    { "Category": " Magnetic & Felt Playboards", "Parent": " Pretend Play " },
+    { "Category": " Housekeeping", "Parent": " Pretend Play " },
+    { "Category": " Medical Kits", "Parent": " Pretend Play " },
+    { "Category": " Shops & Accessories ", "Parent": " Pretend Play " },
+    { "Category": " Cash Registers", "Parent": " Shops & Accessories " },
+    { "Category": " Shopping Carts", "Parent": " Shops & Accessories " },
+    { "Category": " Money & Banking", "Parent": " Pretend Play " },
+    { "Category": " Play Tools", "Parent": " Pretend Play " },
+    { "Category": " Pretend Play", "Parent": " Dress Up & Pretend Play " },
+    { "Category": " Accessories", "Parent": " Dress Up & Pretend Play " },
+    { "Category": " Beauty & Fashion ", "Parent": " Dress Up & Pretend Play " },
+    { "Category": " Bracelets", "Parent": " Beauty & Fashion " },
+    { "Category": " Necklaces", "Parent": " Beauty & Fashion " },
+    { "Category": " Makeup", "Parent": " Beauty & Fashion " },
+    { "Category": " Vanities", "Parent": " Beauty & Fashion " },
+    { "Category": " Rings", "Parent": " Beauty & Fashion " },
+    { "Category": " Beauty & Fashion", "Parent": " Dress Up & Pretend Play " },
+    { "Category": " Masks", "Parent": " Dress Up & Pretend Play " },
+    { "Category": " Hats", "Parent": " Dress Up & Pretend Play " },
+    { "Category": " Wigs", "Parent": " Dress Up & Pretend Play " },
+    { "Category": " Toy Figures & Playsets ", "Parent": "Toys & Games " },
+    { "Category": " Action Figures", "Parent": " Toy Figures & Playsets " },
+    { "Category": " Playsets & Vehicles ", "Parent": " Toy Figures & Playsets " },
+    { "Category": " Playsets", "Parent": " Playsets & Vehicles " },
+    { "Category": " Vehicles", "Parent": " Playsets & Vehicles " },
+    { "Category": " Playsets & Vehicles", "Parent": " Toy Figures & Playsets " },
+    { "Category": " Play Vehicles", "Parent": "Toys & Games " },
+    { "Category": " Novelty & Gag Toys", "Parent": "Toys & Games " },
+    { "Category": " Party Supplies", "Parent": "Toys & Games " },
+    { "Category": " Dolls & Accessories ", "Parent": "Toys & Games " },
+    { "Category": " Doll Accessories", "Parent": " Dolls & Accessories " },
+    { "Category": " Dolls", "Parent": " Dolls & Accessories " },
+    { "Category": " Playsets", "Parent": " Dolls & Accessories " },
+    { "Category": " Doll Accessories ", "Parent": " Dolls & Accessories " },
+    { "Category": " Furniture", "Parent": " Doll Accessories " },
+    { "Category": " Clothing & Shoes", "Parent": " Doll Accessories " },
+    { "Category": " Strollers", "Parent": " Doll Accessories " },
+    { "Category": " Dollhouse Accessories", "Parent": " Dolls & Accessories " },
+    { "Category": " Dollhouse Accessories ", "Parent": " Dolls & Accessories " },
+    { "Category": " Furniture", "Parent": " Dollhouse Accessories " },
+    { "Category": " Dollhouses", "Parent": " Dolls & Accessories " },
+    { "Category": " Games & Accessories", "Parent": "Toys & Games " },
+    { "Category": " Learning & Education", "Parent": "Toys & Games " },
+    { "Category": " Kids Electronics ", "Parent": "Toys & Games " },
+    { "Category": " Electronic Learning Toys", "Parent": " Kids Electronics " },
+    {
+        "Category": " Remote- & App-Controlled Figures & Robots",
+        "Parent": " Kids Electronics "
+    },
+    { "Category": " Dance Mats", "Parent": " Kids Electronics " },
+    { "Category": " Electronic Pets", "Parent": " Kids Electronics " },
+    { "Category": " Systems & Accessories", "Parent": " Kids Electronics " },
+    { "Category": " Karaoke Machines", "Parent": " Kids Electronics " },
+    { "Category": " Plug & Play Video Games", "Parent": " Kids Electronics " },
+    { "Category": " Systems & Accessories ", "Parent": " Kids Electronics " },
+    { "Category": " Electronic Systems", "Parent": " Systems & Accessories " },
+    { "Category": " Walkie Talkies", "Parent": " Kids Electronics " },
+    { "Category": " Arts & Crafts", "Parent": "Toys & Games " },
+    { "Category": " Games & Accessories ", "Parent": "Toys & Games " },
+    { "Category": " Card Games", "Parent": " Games & Accessories " },
+    { "Category": " Board Games", "Parent": " Games & Accessories " },
+    { "Category": " Game Accessories ", "Parent": " Games & Accessories " },
+    { "Category": " Standard Game Dice", "Parent": " Game Accessories " },
+    { "Category": " Role Playing Dice", "Parent": " Game Accessories " },
+    { "Category": " Game Pieces", "Parent": " Game Accessories " },
+    { "Category": " Card Games ", "Parent": " Games & Accessories " },
+    { "Category": " Standard Playing Card Decks", "Parent": " Card Games " },
+    { "Category": " Collectible Card Games", "Parent": " Card Games " },
+    { "Category": " Game Accessories", "Parent": " Games & Accessories " },
+    { "Category": " Gaming Tops", "Parent": " Games & Accessories " },
+    { "Category": " Travel Games", "Parent": " Games & Accessories " },
+    { "Category": " Handheld Games", "Parent": " Games & Accessories " },
+    { "Category": " Tile Games", "Parent": " Games & Accessories " },
+    { "Category": " Game Collections", "Parent": " Games & Accessories " },
+    { "Category": " Dice Games", "Parent": " Games & Accessories " },
+    { "Category": " Floor Games", "Parent": " Games & Accessories " },
+    { "Category": " Stacking Games", "Parent": " Games & Accessories " },
+    { "Category": " Stuffed Animals & Plush Toys ", "Parent": "Toys & Games " },
+    {
+        "Category": " Stuffed Animals & Teddy Bears",
+        "Parent": " Stuffed Animals & Plush Toys "
+    },
+    { "Category": " Plush Puppets", "Parent": " Stuffed Animals & Plush Toys " },
+    { "Category": " Plush Figures", "Parent": " Stuffed Animals & Plush Toys " },
+    { "Category": " Plush Pillows", "Parent": " Stuffed Animals & Plush Toys " },
+    {
+        "Category": " Stuffed Animal Clothing & Accessories",
+        "Parent": " Stuffed Animals & Plush Toys "
+    },
+    {
+        "Category": " Plush Interactive Toys",
+        "Parent": " Stuffed Animals & Plush Toys "
+    },
+    { "Category": " Stuffed Animals & Plush Toys", "Parent": "Toys & Games " },
+    { "Category": " Building Toys", "Parent": "Toys & Games " },
+    { "Category": " Toy Figures & Playsets", "Parent": "Toys & Games " },
+    { "Category": " Play Vehicles ", "Parent": "Toys & Games " },
+    { "Category": " Die-Cast Vehicles", "Parent": " Play Vehicles " },
+    { "Category": " Vehicle Playsets", "Parent": " Play Vehicles " },
+    { "Category": " Play Trains & Railway Sets ", "Parent": " Play Vehicles " },
+    { "Category": " Train Sets", "Parent": " Play Trains & Railway Sets " },
+    { "Category": " Accessories ", "Parent": " Play Trains & Railway Sets " },
+    { "Category": " Buildings & Scenery", "Parent": " Accessories " },
+    { "Category": " Train Tracks", "Parent": " Accessories " },
+    { "Category": " Train Cars", "Parent": " Play Trains & Railway Sets " },
+    { "Category": " Accessories", "Parent": " Play Trains & Railway Sets " },
+    { "Category": " Toy Vehicles", "Parent": " Play Vehicles " },
+    { "Category": " Pull Back Vehicles", "Parent": " Play Vehicles " },
+    { "Category": " Play Trains & Railway Sets", "Parent": " Play Vehicles " },
+    { "Category": " Puzzles", "Parent": "Toys & Games " },
+    {
+        "Category": " Kids' Furniture, D\u00e9cor & Storage ",
+        "Parent": "Toys & Games "
+    },
+    {
+        "Category": " Toy Chests & Storage",
+        "Parent": " Kids' Furniture, D\u00e9cor & Storage "
+    },
+    {
+        "Category": " Outdoor Furniture ",
+        "Parent": " Kids' Furniture, D\u00e9cor & Storage "
+    },
+    { "Category": " Picnic Tables", "Parent": " Outdoor Furniture " },
+    { "Category": " Table & Chair Sets", "Parent": " Outdoor Furniture " },
+    { "Category": " Chairs", "Parent": " Outdoor Furniture " },
+    {
+        "Category": " Backpacks & Lunch Boxes ",
+        "Parent": " Kids' Furniture, D\u00e9cor & Storage "
+    },
+    { "Category": " Lunch Bags", "Parent": " Backpacks & Lunch Boxes " },
+    { "Category": " Lunch Boxes", "Parent": " Backpacks & Lunch Boxes " },
+    {
+        "Category": " Outdoor Furniture",
+        "Parent": " Kids' Furniture, D\u00e9cor & Storage "
+    },
+    {
+        "Category": " Kids' Furniture, D\u00e9cor & Storage",
+        "Parent": "Toys & Games "
+    },
+    { "Category": " Hobbies", "Parent": "Toys & Games " },
+    { "Category": " Puppets & Puppet Theaters ", "Parent": "Toys & Games " },
+    { "Category": " Hand Puppets", "Parent": " Puppets & Puppet Theaters " },
+    { "Category": " Finger Puppets", "Parent": " Puppets & Puppet Theaters " },
+    { "Category": " Puppet Theaters", "Parent": " Puppets & Puppet Theaters " },
+    { "Category": " Dolls & Accessories", "Parent": "Toys & Games " },
+    { "Category": " Dress Up & Pretend Play", "Parent": "Toys & Games " },
+    { "Category": " Collectible Toys", "Parent": "Toys & Games " },
+    { "Category": " Puppets & Puppet Theaters", "Parent": "Toys & Games " },
+    { "Category": " Tricycles, Scooters & Wagons", "Parent": "Toys & Games " },
+    { "Category": " Sports & Outdoor Play", "Parent": "Toys & Games " },
+    { "Category": "Clothing, Shoes & Jewelry ", "Parent": null },
+    {
+        "Category": " Costumes & Accessories ",
+        "Parent": "Clothing, Shoes & Jewelry "
+    },
+    { "Category": " Kids & Baby ", "Parent": " Costumes & Accessories " },
+    { "Category": " Girls ", "Parent": " Kids & Baby " },
+    { "Category": " Costumes", "Parent": " Girls " },
+    { "Category": " Accessories", "Parent": " Girls " },
+    { "Category": " Masks", "Parent": " Girls " },
+    { "Category": " Footwear", "Parent": " Girls " },
+    { "Category": " Boys ", "Parent": " Kids & Baby " },
+    { "Category": " Costumes", "Parent": " Boys " },
+    { "Category": " Accessories", "Parent": " Boys " },
+    { "Category": " Masks", "Parent": " Boys " },
+    { "Category": " Baby ", "Parent": " Kids & Baby " },
+    { "Category": " Baby Girls", "Parent": " Baby " },
+    { "Category": " Baby Boys", "Parent": " Baby " },
+    { "Category": " Girls", "Parent": " Kids & Baby " },
+    { "Category": " Boys", "Parent": " Kids & Baby " },
+    { "Category": " Women ", "Parent": " Costumes & Accessories " },
+    { "Category": " Wigs", "Parent": " Women " },
+    { "Category": " Costumes & Cosplay Apparel ", "Parent": " Women " },
+    { "Category": " Costumes", "Parent": " Costumes & Cosplay Apparel " },
+    {
+        "Category": " Robes, Capes & Jackets",
+        "Parent": " Costumes & Cosplay Apparel "
+    },
+    { "Category": " Bottoms", "Parent": " Costumes & Cosplay Apparel " },
+    { "Category": " Tops & Corsets", "Parent": " Costumes & Cosplay Apparel " },
+    {
+        "Category": " Leg Warmers & Hosiery",
+        "Parent": " Costumes & Cosplay Apparel "
+    },
+    { "Category": " Accessories", "Parent": " Women " },
+    { "Category": " Accessories ", "Parent": " Women " },
+    { "Category": " Headwear", "Parent": " Accessories " },
+    { "Category": " Accessory Sets", "Parent": " Accessories " },
+    { "Category": " Eyewear", "Parent": " Accessories " },
+    { "Category": " Masks", "Parent": " Women " },
+    { "Category": " Footwear", "Parent": " Women " },
+    { "Category": " Men ", "Parent": " Costumes & Accessories " },
+    { "Category": " Accessories ", "Parent": " Men " },
+    { "Category": " Headwear", "Parent": " Accessories " },
+    { "Category": " Accessory Sets", "Parent": " Accessories " },
+    { "Category": " Accessories", "Parent": " Men " },
+    { "Category": " Masks", "Parent": " Men " },
+    { "Category": " Costumes & Cosplay Apparel ", "Parent": " Men " },
+    { "Category": " Costumes", "Parent": " Costumes & Cosplay Apparel " },
+    { "Category": " Tops", "Parent": " Costumes & Cosplay Apparel " },
+    {
+        "Category": " Robes, Capes & Jackets",
+        "Parent": " Costumes & Cosplay Apparel "
+    },
+    { "Category": " Bottoms", "Parent": " Costumes & Cosplay Apparel " },
+    { "Category": " Wigs", "Parent": " Men " },
+    { "Category": " Props ", "Parent": " Costumes & Accessories " },
+    { "Category": " Weapons & Armor", "Parent": " Props " },
+    {
+        "Category": " Makeup, Facial Hair & Adhesives ",
+        "Parent": " Costumes & Accessories "
+    },
+    {
+        "Category": " Costume Makeup",
+        "Parent": " Makeup, Facial Hair & Adhesives "
+    },
+    { "Category": " Women", "Parent": " Costumes & Accessories " },
+    { "Category": " Novelty & More ", "Parent": "Clothing, Shoes & Jewelry " },
+    { "Category": " Clothing ", "Parent": " Novelty & More " },
+    { "Category": " Novelty ", "Parent": " Clothing " },
+    { "Category": " Men ", "Parent": " Novelty " },
+    { "Category": " Shirts ", "Parent": " Men " },
+    { "Category": " T-Shirts", "Parent": " Shirts " },
+    { "Category": " Accessories ", "Parent": " Men " },
+    { "Category": " Keychains", "Parent": " Accessories " },
+    { "Category": " Buttons & Pins", "Parent": " Accessories " },
+    { "Category": " Shirts", "Parent": " Men " },
+    { "Category": " Women ", "Parent": " Novelty " },
+    { "Category": " Accessories ", "Parent": " Women " },
+    { "Category": " Keychains", "Parent": " Accessories " },
+    { "Category": " Buttons & Pins", "Parent": " Accessories " },
+    { "Category": " Tops & Tees ", "Parent": " Women " },
+    { "Category": " T-Shirts", "Parent": " Tops & Tees " },
+    { "Category": " Socks & Hosiery ", "Parent": " Women " },
+    { "Category": " Leg Warmers", "Parent": " Socks & Hosiery " },
+    { "Category": " Accessories", "Parent": " Women " },
+    { "Category": " Boys ", "Parent": " Novelty " },
+    { "Category": " Underwear ", "Parent": " Boys " },
+    { "Category": " Briefs", "Parent": " Underwear " },
+    { "Category": " Hoodies", "Parent": " Boys " },
+    { "Category": " Accessories ", "Parent": " Boys " },
+    { "Category": " Keychains", "Parent": " Accessories " },
+    { "Category": " Girls ", "Parent": " Novelty " },
+    { "Category": " Hoodies", "Parent": " Girls " },
+    { "Category": " Novelty", "Parent": " Clothing " },
+    { "Category": " Men ", "Parent": "Clothing, Shoes & Jewelry " },
+    { "Category": " Accessories ", "Parent": " Men " },
+    {
+        "Category": " Wallets, Card Cases & Money Organizers ",
+        "Parent": " Accessories "
+    },
+    {
+        "Category": " Wallets",
+        "Parent": " Wallets, Card Cases & Money Organizers "
+    },
+    {
+        "Category": " Ties, Cummerbunds & Pocket Squares ",
+        "Parent": " Accessories "
+    },
+    { "Category": " Bow Ties", "Parent": " Ties, Cummerbunds & Pocket Squares " },
+    { "Category": " Keyrings & Keychains", "Parent": " Accessories " },
+    {
+        "Category": " Sunglasses & Eyewear Accessories ",
+        "Parent": " Accessories "
+    },
+    { "Category": " Sunglasses", "Parent": " Sunglasses & Eyewear Accessories " },
+    { "Category": " Jewelry ", "Parent": " Men " },
+    { "Category": " Rings", "Parent": " Jewelry " },
+    { "Category": " Surf, Skate & Street ", "Parent": " Men " },
+    { "Category": " Backpacks", "Parent": " Surf, Skate & Street " },
+    {
+        "Category": " Luggage & Travel Gear ",
+        "Parent": "Clothing, Shoes & Jewelry "
+    },
+    { "Category": " Backpacks", "Parent": " Luggage & Travel Gear " },
+    { "Category": " Backpacks ", "Parent": " Luggage & Travel Gear " },
+    { "Category": " Kids' Backpacks", "Parent": " Backpacks " },
+    { "Category": " Casual Daypacks", "Parent": " Backpacks " },
+    { "Category": " Umbrellas ", "Parent": " Luggage & Travel Gear " },
+    { "Category": " Stick Umbrellas", "Parent": " Umbrellas " },
+    { "Category": " Travel Duffels", "Parent": " Luggage & Travel Gear " },
+    { "Category": " Gym Bags ", "Parent": " Luggage & Travel Gear " },
+    { "Category": " Drawstring Bags", "Parent": " Gym Bags " },
+    { "Category": " Sports Duffels", "Parent": " Gym Bags " },
+    { "Category": " Messenger Bags", "Parent": " Luggage & Travel Gear " },
+    { "Category": " Travel Accessories ", "Parent": " Luggage & Travel Gear " },
+    {
+        "Category": " Luggage Tags & Handle Wraps ",
+        "Parent": " Travel Accessories "
+    },
+    { "Category": " Luggage Tags", "Parent": " Luggage Tags & Handle Wraps " },
+    { "Category": " Luggage", "Parent": " Luggage & Travel Gear " },
+    {
+        "Category": " Costumes & Accessories",
+        "Parent": "Clothing, Shoes & Jewelry "
+    },
+    { "Category": " Women ", "Parent": "Clothing, Shoes & Jewelry " },
+    { "Category": " Accessories ", "Parent": " Women " },
+    {
+        "Category": " Wallets, Card Cases & Money Organizers ",
+        "Parent": " Accessories "
+    },
+    {
+        "Category": " Wallets",
+        "Parent": " Wallets, Card Cases & Money Organizers "
+    },
+    { "Category": " Shoes ", "Parent": " Women " },
+    { "Category": " Slippers", "Parent": " Shoes " },
+    { "Category": " Girls ", "Parent": "Clothing, Shoes & Jewelry " },
+    { "Category": " Clothing ", "Parent": " Girls " },
+    { "Category": " Tops, Tees & Blouses ", "Parent": " Clothing " },
+    { "Category": " Tees", "Parent": " Tops, Tees & Blouses " },
+    { "Category": " Underwear ", "Parent": " Clothing " },
+    { "Category": " Panties", "Parent": " Underwear " },
+    { "Category": " Dresses ", "Parent": " Clothing " },
+    { "Category": " Casual", "Parent": " Dresses " },
+    { "Category": " Shoes ", "Parent": " Girls " },
+    { "Category": " Flats", "Parent": " Shoes " },
+    { "Category": " Boys ", "Parent": "Clothing, Shoes & Jewelry " },
+    { "Category": " Clothing ", "Parent": " Boys " },
+    { "Category": " Tops, Tees & Shirts ", "Parent": " Clothing " },
+    { "Category": " Tees", "Parent": " Tops, Tees & Shirts " },
+    { "Category": " Underwear ", "Parent": " Clothing " },
+    { "Category": " Briefs", "Parent": " Underwear " },
+    { "Category": " Men", "Parent": "Clothing, Shoes & Jewelry " },
+    {
+        "Category": " Shoe, Jewelry & Watch Accessories ",
+        "Parent": "Clothing, Shoes & Jewelry "
+    },
+    {
+        "Category": " Jewelry Accessories ",
+        "Parent": " Shoe, Jewelry & Watch Accessories "
+    },
+    {
+        "Category": " Jewelry Boxes & Organizers ",
+        "Parent": " Jewelry Accessories "
+    },
+    { "Category": " Jewelry Trays", "Parent": " Jewelry Boxes & Organizers " },
+    { "Category": "Home & Kitchen ", "Parent": null },
+    { "Category": " Home D\u00e9cor ", "Parent": "Home & Kitchen " },
+    { "Category": " Window Treatments ", "Parent": " Home D\u00e9cor " },
+    { "Category": " Window Stickers & Films ", "Parent": " Window Treatments " },
+    { "Category": " Window Films", "Parent": " Window Stickers & Films " },
+    { "Category": " Window Stickers", "Parent": " Window Stickers & Films " },
+    { "Category": " Stained Glass Panels", "Parent": " Window Treatments " },
+    { "Category": " Kids' Room D\u00e9cor", "Parent": " Home D\u00e9cor " },
+    { "Category": " Kids' Room D\u00e9cor ", "Parent": " Home D\u00e9cor " },
+    { "Category": " Wall D\u00e9cor", "Parent": " Kids' Room D\u00e9cor " },
+    { "Category": " Window Treatments ", "Parent": " Kids' Room D\u00e9cor " },
+    { "Category": " Curtain Panels", "Parent": " Window Treatments " },
+    { "Category": " Window Stickers & Films", "Parent": " Window Treatments " },
+    { "Category": " Rugs", "Parent": " Kids' Room D\u00e9cor " },
+    { "Category": " Lamps & Lighting", "Parent": " Kids' Room D\u00e9cor " },
+    { "Category": " Wall D\u00e9cor ", "Parent": " Kids' Room D\u00e9cor " },
+    { "Category": " Pennants & Banners", "Parent": " Wall D\u00e9cor " },
+    { "Category": " Accents ", "Parent": " Kids' Room D\u00e9cor " },
+    { "Category": " Bookends", "Parent": " Accents " },
+    { "Category": " Picture Frames", "Parent": " Accents " },
+    { "Category": " Drawer Handles & Pulls", "Parent": " Accents " },
+    { "Category": " Candles & Holders ", "Parent": " Home D\u00e9cor " },
+    { "Category": " Candles ", "Parent": " Candles & Holders " },
+    { "Category": " Specialty Candles ", "Parent": " Candles " },
+    { "Category": " Birthday Candles", "Parent": " Specialty Candles " },
+    { "Category": " Candles", "Parent": " Candles & Holders " },
+    { "Category": " Candleholders ", "Parent": " Candles & Holders " },
+    { "Category": " Candlestick Holders", "Parent": " Candleholders " },
+    { "Category": " Hurricane Candleholders", "Parent": " Candleholders " },
+    { "Category": " Home D\u00e9cor Accents ", "Parent": " Home D\u00e9cor " },
+    {
+        "Category": " Decorative Accessories ",
+        "Parent": " Home D\u00e9cor Accents "
+    },
+    { "Category": " Decorative Boxes", "Parent": " Decorative Accessories " },
+    { "Category": " Decorative Bottles", "Parent": " Decorative Accessories " },
+    {
+        "Category": " Decorative Signs & Plaques",
+        "Parent": " Decorative Accessories "
+    },
+    {
+        "Category": " Collectible Vehicles",
+        "Parent": " Home D\u00e9cor Accents "
+    },
+    { "Category": " Ornaments", "Parent": " Home D\u00e9cor Accents " },
+    { "Category": " Sculptures ", "Parent": " Home D\u00e9cor Accents " },
+    { "Category": " Wall Sculptures", "Parent": " Sculptures " },
+    { "Category": " Statues", "Parent": " Sculptures " },
+    {
+        "Category": " Collectible Figurines",
+        "Parent": " Home D\u00e9cor Accents "
+    },
+    {
+        "Category": " Collectible Buildings & Accessories ",
+        "Parent": " Home D\u00e9cor Accents "
+    },
+    {
+        "Category": " Accessories",
+        "Parent": " Collectible Buildings & Accessories "
+    },
+    { "Category": " Home D\u00e9cor Accents", "Parent": " Home D\u00e9cor " },
+    { "Category": " Clocks ", "Parent": " Home D\u00e9cor " },
+    { "Category": " Wall Clocks", "Parent": " Clocks " },
+    { "Category": " Mirrors ", "Parent": " Home D\u00e9cor " },
+    { "Category": " Floor & Full Length Mirrors", "Parent": " Mirrors " },
+    { "Category": " Area Rugs, Runners & Pads ", "Parent": " Home D\u00e9cor " },
+    { "Category": " Area Rugs", "Parent": " Area Rugs, Runners & Pads " },
+    { "Category": " Furniture ", "Parent": "Home & Kitchen " },
+    { "Category": " Kids' Furniture ", "Parent": " Furniture " },
+    { "Category": " Tables & Chairs ", "Parent": " Kids' Furniture " },
+    { "Category": " Tables", "Parent": " Tables & Chairs " },
+    { "Category": " Table & Chair Sets", "Parent": " Tables & Chairs " },
+    { "Category": " Chairs & Seats ", "Parent": " Kids' Furniture " },
+    { "Category": " Armchairs", "Parent": " Chairs & Seats " },
+    { "Category": " Folding Chairs", "Parent": " Chairs & Seats " },
+    { "Category": " Stools", "Parent": " Chairs & Seats " },
+    { "Category": " Bean Bags", "Parent": " Chairs & Seats " },
+    { "Category": " Rocking Chairs", "Parent": " Chairs & Seats " },
+    { "Category": " Benches", "Parent": " Chairs & Seats " },
+    { "Category": " Step Stools", "Parent": " Kids' Furniture " },
+    { "Category": " Chests & Trunks", "Parent": " Kids' Furniture " },
+    {
+        "Category": " Bookcases, Cabinets & Shelves",
+        "Parent": " Kids' Furniture "
+    },
+    { "Category": " Chairs & Seats", "Parent": " Kids' Furniture " },
+    {
+        "Category": " Bed Frames, Headboards & Footboards",
+        "Parent": " Kids' Furniture "
+    },
+    { "Category": " Desks & Desk Sets", "Parent": " Kids' Furniture " },
+    { "Category": " Ottomans & Storage Ottomans", "Parent": " Kids' Furniture " },
+    { "Category": " Armoires & Dressers", "Parent": " Kids' Furniture " },
+    { "Category": " Desks & Desk Sets ", "Parent": " Kids' Furniture " },
+    { "Category": " Sets", "Parent": " Desks & Desk Sets " },
+    { "Category": " Desks", "Parent": " Desks & Desk Sets " },
+    { "Category": " Nightstands", "Parent": " Kids' Furniture " },
+    { "Category": " Sofas", "Parent": " Kids' Furniture " },
+    { "Category": " Tables & Chairs", "Parent": " Kids' Furniture " },
+    { "Category": " Kids' Furniture", "Parent": " Furniture " },
+    { "Category": " Bedroom Furniture ", "Parent": " Furniture " },
+    { "Category": " Beds, Frames & Bases ", "Parent": " Bedroom Furniture " },
+    {
+        "Category": " Headboards & Footboards ",
+        "Parent": " Beds, Frames & Bases "
+    },
+    { "Category": " Headboards", "Parent": " Headboards & Footboards " },
+    { "Category": " Beds", "Parent": " Beds, Frames & Bases " },
+    { "Category": " Bed Frames", "Parent": " Beds, Frames & Bases " },
+    { "Category": " Mattresses & Box Springs ", "Parent": " Bedroom Furniture " },
+    { "Category": " Mattresses", "Parent": " Mattresses & Box Springs " },
+    { "Category": " Vanities & Vanity Benches", "Parent": " Bedroom Furniture " },
+    { "Category": " Dressers", "Parent": " Bedroom Furniture " },
+    { "Category": " Living Room Furniture ", "Parent": " Furniture " },
+    { "Category": " Tables ", "Parent": " Living Room Furniture " },
+    { "Category": " End Tables", "Parent": " Tables " },
+    { "Category": " Home Office Furniture ", "Parent": " Furniture " },
+    { "Category": " Bookcases", "Parent": " Home Office Furniture " },
+    {
+        "Category": " Home Office Furniture Sets",
+        "Parent": " Home Office Furniture "
+    },
+    { "Category": " Kitchen & Dining Room Furniture ", "Parent": " Furniture " },
+    {
+        "Category": " Kitchen Islands & Carts",
+        "Parent": " Kitchen & Dining Room Furniture "
+    },
+    { "Category": " Accent Furniture ", "Parent": " Furniture " },
+    { "Category": " Storage Cabinets", "Parent": " Accent Furniture " },
+    { "Category": " Bedding ", "Parent": "Home & Kitchen " },
+    { "Category": " Kids' Bedding ", "Parent": " Bedding " },
+    { "Category": " Comforters & Sets ", "Parent": " Kids' Bedding " },
+    { "Category": " Comforter Sets", "Parent": " Comforters & Sets " },
+    { "Category": " Comforters", "Parent": " Comforters & Sets " },
+    { "Category": " Blankets & Throws ", "Parent": " Kids' Bedding " },
+    { "Category": " Throws", "Parent": " Blankets & Throws " },
+    { "Category": " Bed Blankets", "Parent": " Blankets & Throws " },
+    { "Category": " Weighted Blankets", "Parent": " Blankets & Throws " },
+    { "Category": " Wearable Blankets", "Parent": " Blankets & Throws " },
+    { "Category": " Blankets & Throws", "Parent": " Kids' Bedding " },
+    { "Category": " Duvet Covers & Sets ", "Parent": " Kids' Bedding " },
+    { "Category": " Duvet Covers", "Parent": " Duvet Covers & Sets " },
+    { "Category": " Duvet Cover Sets", "Parent": " Duvet Covers & Sets " },
+    { "Category": " Quilts & Sets ", "Parent": " Kids' Bedding " },
+    { "Category": " Quilt Sets", "Parent": " Quilts & Sets " },
+    { "Category": " Sheets & Pillowcases ", "Parent": " Kids' Bedding " },
+    {
+        "Category": " Sheet & Pillowcase Sets",
+        "Parent": " Sheets & Pillowcases "
+    },
+    { "Category": " Pillowcases", "Parent": " Sheets & Pillowcases " },
+    { "Category": " Pillow Shams", "Parent": " Sheets & Pillowcases " },
+    { "Category": " Decorative Pillows & Covers ", "Parent": " Kids' Bedding " },
+    { "Category": " Travel Pillows", "Parent": " Decorative Pillows & Covers " },
+    { "Category": " Body Pillows", "Parent": " Decorative Pillows & Covers " },
+    {
+        "Category": " Floor Pillows & Cushions",
+        "Parent": " Decorative Pillows & Covers "
+    },
+    { "Category": " Bedding Sets & Collections ", "Parent": " Kids' Bedding " },
+    {
+        "Category": " Bedspread & Coverlet Sets",
+        "Parent": " Bedding Sets & Collections "
+    },
+    { "Category": " Bed Skirts", "Parent": " Kids' Bedding " },
+    { "Category": " Sheets & Pillowcases", "Parent": " Kids' Bedding " },
+    { "Category": " Decorative Pillows & Covers", "Parent": " Kids' Bedding " },
+    { "Category": " Duvet Covers & Sets", "Parent": " Kids' Bedding " },
+    { "Category": " Quilts & Sets", "Parent": " Kids' Bedding " },
+    { "Category": " Kids' Bedding", "Parent": " Bedding " },
+    { "Category": " Air Mattresses & Accessories ", "Parent": " Bedding " },
+    { "Category": " Pumps", "Parent": " Air Mattresses & Accessories " },
+    {
+        "Category": " Decorative Pillows, Inserts & Covers ",
+        "Parent": " Bedding "
+    },
+    {
+        "Category": " Throw Pillows",
+        "Parent": " Decorative Pillows, Inserts & Covers "
+    },
+    { "Category": " Kitchen & Dining ", "Parent": "Home & Kitchen " },
+    { "Category": " Storage & Organization ", "Parent": " Kitchen & Dining " },
+    {
+        "Category": " Travel & To-Go Food Containers ",
+        "Parent": " Storage & Organization "
+    },
+    { "Category": " Lunch Bags", "Parent": " Travel & To-Go Food Containers " },
+    { "Category": " Lunch Boxes", "Parent": " Travel & To-Go Food Containers " },
+    {
+        "Category": " Flatware & Utensil Storage ",
+        "Parent": " Storage & Organization "
+    },
+    {
+        "Category": " Flatware Chests & Caddies",
+        "Parent": " Flatware & Utensil Storage "
+    },
+    {
+        "Category": " Travel & To-Go Food Containers",
+        "Parent": " Storage & Organization "
+    },
+    {
+        "Category": " Kitchen Utensils & Gadgets ",
+        "Parent": " Kitchen & Dining "
+    },
+    {
+        "Category": " Kitchen Accessories ",
+        "Parent": " Kitchen Utensils & Gadgets "
+    },
+    { "Category": " Refrigerator Magnets", "Parent": " Kitchen Accessories " },
+    {
+        "Category": " Specialty Tools & Gadgets ",
+        "Parent": " Kitchen Utensils & Gadgets "
+    },
+    { "Category": " Ice Pop Molds", "Parent": " Specialty Tools & Gadgets " },
+    {
+        "Category": " Bar & Wine Tools ",
+        "Parent": " Kitchen Utensils & Gadgets "
+    },
+    { "Category": " Corkscrews & Openers ", "Parent": " Bar & Wine Tools " },
+    { "Category": " Bottle Openers", "Parent": " Corkscrews & Openers " },
+    { "Category": " Small Appliances ", "Parent": " Kitchen & Dining " },
+    { "Category": " Ovens & Toasters ", "Parent": " Small Appliances " },
+    { "Category": " Toasters", "Parent": " Ovens & Toasters " },
+    { "Category": " Specialty Appliances ", "Parent": " Small Appliances " },
+    { "Category": " Cotton Candy Makers", "Parent": " Specialty Appliances " },
+    { "Category": " Bakeware ", "Parent": " Kitchen & Dining " },
+    { "Category": " Cake Pans ", "Parent": " Bakeware " },
+    { "Category": " Specialty & Novelty Cake Pans", "Parent": " Cake Pans " },
+    { "Category": " Decorating Tools ", "Parent": " Bakeware " },
+    { "Category": " Wrapping & Packaging", "Parent": " Decorating Tools " },
+    { "Category": " Kitchen Utensils & Gadgets", "Parent": " Kitchen & Dining " },
+    {
+        "Category": " Small Appliance Parts & Accessories ",
+        "Parent": " Kitchen & Dining "
+    },
+    {
+        "Category": " Microwave Oven Parts & Accessories",
+        "Parent": " Small Appliance Parts & Accessories "
+    },
+    { "Category": " Dining & Entertaining ", "Parent": " Kitchen & Dining " },
+    {
+        "Category": " Glassware & Drinkware ",
+        "Parent": " Dining & Entertaining "
+    },
+    {
+        "Category": " Wine & Champagne Glasses ",
+        "Parent": " Glassware & Drinkware "
+    },
+    { "Category": " Champagne Glasses", "Parent": " Wine & Champagne Glasses " },
+    { "Category": " Cocktail Drinkware ", "Parent": " Glassware & Drinkware " },
+    { "Category": " Margarita Glasses", "Parent": " Cocktail Drinkware " },
+    {
+        "Category": " Bar Tools & Drinkware ",
+        "Parent": " Dining & Entertaining "
+    },
+    { "Category": " Bar Tools ", "Parent": " Bar Tools & Drinkware " },
+    { "Category": " Cocktail Napkins", "Parent": " Bar Tools " },
+    { "Category": " Novelty ", "Parent": " Dining & Entertaining " },
+    { "Category": " Drinkware ", "Parent": " Novelty " },
+    { "Category": " Coffee Mugs", "Parent": " Drinkware " },
+    { "Category": " Dinnerware", "Parent": " Dining & Entertaining " },
+    { "Category": " Kitchen & Table Linens ", "Parent": " Kitchen & Dining " },
+    { "Category": " Accessories ", "Parent": " Kitchen & Table Linens " },
+    {
+        "Category": " Place Cards & Place Card Holders",
+        "Parent": " Accessories "
+    },
+    {
+        "Category": " Dish Cloths & Dish Towels",
+        "Parent": " Kitchen & Table Linens "
+    },
+    { "Category": " Storage & Organization", "Parent": " Kitchen & Dining " },
+    { "Category": " Kids' Home Store", "Parent": "Home & Kitchen " },
+    { "Category": " Event & Party Supplies ", "Parent": "Home & Kitchen " },
+    { "Category": " Decorations ", "Parent": " Event & Party Supplies " },
+    { "Category": " Banners & Garlands", "Parent": " Decorations " },
+    { "Category": " Tablecovers", "Parent": " Decorations " },
+    { "Category": " Balloons", "Parent": " Decorations " },
+    { "Category": " Confetti", "Parent": " Decorations " },
+    { "Category": " Streamers", "Parent": " Decorations " },
+    { "Category": " Centerpieces", "Parent": " Decorations " },
+    { "Category": " Hats", "Parent": " Event & Party Supplies " },
+    { "Category": " Adult Novelty", "Parent": " Event & Party Supplies " },
+    { "Category": " Favors", "Parent": " Event & Party Supplies " },
+    { "Category": " Decorations", "Parent": " Event & Party Supplies " },
+    { "Category": " Tableware ", "Parent": " Event & Party Supplies " },
+    { "Category": " Cups", "Parent": " Tableware " },
+    { "Category": " Napkins", "Parent": " Tableware " },
+    { "Category": " Plates", "Parent": " Tableware " },
+    { "Category": " Invitations", "Parent": " Event & Party Supplies " },
+    {
+        "Category": " Party Games & Activities",
+        "Parent": " Event & Party Supplies "
+    },
+    { "Category": " Party Packs", "Parent": " Event & Party Supplies " },
+    { "Category": " Event & Party Supplies", "Parent": "Home & Kitchen " },
+    { "Category": " Home D\u00e9cor", "Parent": "Home & Kitchen " },
+    { "Category": " Storage & Organization ", "Parent": "Home & Kitchen " },
+    {
+        "Category": " Laundry Storage & Organization ",
+        "Parent": " Storage & Organization "
+    },
+    {
+        "Category": " Laundry Hampers",
+        "Parent": " Laundry Storage & Organization "
+    },
+    { "Category": " Wall Art ", "Parent": "Home & Kitchen " },
+    { "Category": " Posters & Prints", "Parent": " Wall Art " },
+    { "Category": " Seasonal D\u00e9cor ", "Parent": "Home & Kitchen " },
+    { "Category": " Advent Calendars", "Parent": " Seasonal D\u00e9cor " },
+    { "Category": " Wall Art", "Parent": "Home & Kitchen " },
+    { "Category": " Furniture", "Parent": "Home & Kitchen " },
+    { "Category": "Baby Products ", "Parent": null },
+    { "Category": " Nursery ", "Parent": "Baby Products " },
+    { "Category": " D\u00e9cor ", "Parent": " Nursery " },
+    { "Category": " Window Treatments ", "Parent": " D\u00e9cor " },
+    { "Category": " Valances", "Parent": " Window Treatments " },
+    { "Category": " Wall D\u00e9cor ", "Parent": " D\u00e9cor " },
+    { "Category": " Growth Charts", "Parent": " Wall D\u00e9cor " },
+    { "Category": " Stickers", "Parent": " Wall D\u00e9cor " },
+    { "Category": " Wall Plaques", "Parent": " Wall D\u00e9cor " },
+    { "Category": " Letters & Numbers", "Parent": " Wall D\u00e9cor " },
+    { "Category": " Door Hangers", "Parent": " D\u00e9cor " },
+    { "Category": " Mobiles", "Parent": " D\u00e9cor " },
+    { "Category": " Lamps & Shades", "Parent": " D\u00e9cor " },
+    { "Category": " Memory Boards", "Parent": " D\u00e9cor " },
+    { "Category": " Furniture ", "Parent": " Nursery " },
+    { "Category": " Cribs & Nursery Beds ", "Parent": " Furniture " },
+    { "Category": " Toddler Beds", "Parent": " Cribs & Nursery Beds " },
+    { "Category": " Storage & Organization ", "Parent": " Furniture " },
+    {
+        "Category": " Toy Chests & Organizers",
+        "Parent": " Storage & Organization "
+    },
+    { "Category": " Hampers", "Parent": " Storage & Organization " },
+    { "Category": " Storage Bins & Boxes", "Parent": " Storage & Organization " },
+    { "Category": " Bedding ", "Parent": " Nursery " },
+    { "Category": " Toddler Bedding ", "Parent": " Bedding " },
+    { "Category": " Bedding Sets", "Parent": " Toddler Bedding " },
+    { "Category": " Baby Bedding ", "Parent": " Bedding " },
+    { "Category": " Blankets & Swaddling ", "Parent": " Baby Bedding " },
+    { "Category": " Bed Blankets", "Parent": " Blankets & Swaddling " },
+    { "Category": " Crib Bedding ", "Parent": " Baby Bedding " },
+    { "Category": " Bedding Sets", "Parent": " Crib Bedding " },
+    { "Category": " D\u00e9cor", "Parent": " Nursery " },
+    { "Category": " Baby Care ", "Parent": "Baby Products " },
+    {
+        "Category": " Pacifiers, Teethers & Teething Relief ",
+        "Parent": " Baby Care "
+    },
+    {
+        "Category": " Teethers",
+        "Parent": " Pacifiers, Teethers & Teething Relief "
+    },
+    {
+        "Category": " Pacifier Accessories",
+        "Parent": " Pacifiers, Teethers & Teething Relief "
+    },
+    {
+        "Category": " Pacifiers, Teethers & Teething Relief",
+        "Parent": " Baby Care "
+    },
+    { "Category": " Activity & Entertainment ", "Parent": "Baby Products " },
+    {
+        "Category": " Bouncers, Jumpers & Swings",
+        "Parent": " Activity & Entertainment "
+    },
+    {
+        "Category": " Bouncers, Jumpers & Swings ",
+        "Parent": " Activity & Entertainment "
+    },
+    { "Category": " Bouncers", "Parent": " Bouncers, Jumpers & Swings " },
+    {
+        "Category": " Baby Gyms & Playmats",
+        "Parent": " Activity & Entertainment "
+    },
+    { "Category": " Walkers", "Parent": " Activity & Entertainment " },
+    { "Category": " Strollers & Accessories ", "Parent": "Baby Products " },
+    { "Category": " Accessories ", "Parent": " Strollers & Accessories " },
+    { "Category": " Travel Carry Bags", "Parent": " Accessories " },
+    { "Category": " Feeding ", "Parent": "Baby Products " },
+    { "Category": " Solid Feeding ", "Parent": " Feeding " },
+    { "Category": " Dishes", "Parent": " Solid Feeding " },
+    { "Category": " Bottle-Feeding ", "Parent": " Feeding " },
+    { "Category": " Bottles", "Parent": " Bottle-Feeding " },
+    { "Category": " Feeding", "Parent": "Baby Products " },
+    { "Category": " Gifts ", "Parent": "Baby Products " },
+    { "Category": " Keepsakes ", "Parent": " Gifts " },
+    { "Category": " Keepsake Rattles", "Parent": " Keepsakes " },
+    { "Category": " Potty Training ", "Parent": "Baby Products " },
+    { "Category": " Potties & Seats", "Parent": " Potty Training " },
+    { "Category": " Activity & Entertainment", "Parent": "Baby Products " },
+    { "Category": "Pet Supplies ", "Parent": null },
+    { "Category": " Dogs ", "Parent": "Pet Supplies " },
+    { "Category": " Training & Behavior Aids ", "Parent": " Dogs " },
+    { "Category": " Agility Equipment ", "Parent": " Training & Behavior Aids " },
+    { "Category": " Tunnels", "Parent": " Agility Equipment " },
+    { "Category": " Apparel & Accessories ", "Parent": " Dogs " },
+    { "Category": " Costumes", "Parent": " Apparel & Accessories " },
+    { "Category": " Sweaters", "Parent": " Apparel & Accessories " },
+    { "Category": " Toys ", "Parent": " Dogs " },
+    { "Category": " Chew Toys", "Parent": " Toys " },
+    { "Category": " Pet Supplies Markdowns", "Parent": "Pet Supplies " },
+    { "Category": " Top Selection from AmazonPets", "Parent": "Pet Supplies " },
+    { "Category": " Cats ", "Parent": "Pet Supplies " },
+    { "Category": " Toys ", "Parent": " Cats " },
+    { "Category": " Catnip Toys", "Parent": " Toys " },
+    { "Category": " Birds ", "Parent": "Pet Supplies " },
+    { "Category": " Toys", "Parent": " Birds " },
+    { "Category": "Arts, Crafts & Sewing ", "Parent": null },
+    { "Category": " Crafting ", "Parent": "Arts, Crafts & Sewing " },
+    { "Category": " Paper & Paper Crafts ", "Parent": " Crafting " },
+    { "Category": " Paper Craft Tools", "Parent": " Paper & Paper Crafts " },
+    { "Category": " Paper ", "Parent": " Paper & Paper Crafts " },
+    { "Category": " Construction Paper", "Parent": " Paper " },
+    { "Category": " Decorative Paper", "Parent": " Paper " },
+    { "Category": " Parchment", "Parent": " Paper " },
+    { "Category": " Paper", "Parent": " Paper & Paper Crafts " },
+    { "Category": " Woodcrafts ", "Parent": " Crafting " },
+    { "Category": " Unfinished Wood", "Parent": " Woodcrafts " },
+    { "Category": " Craft Supplies", "Parent": " Crafting " },
+    { "Category": " Weaving & Spinning ", "Parent": " Crafting " },
+    { "Category": " Weaving Looms", "Parent": " Weaving & Spinning " },
+    { "Category": " Craft Supplies ", "Parent": " Crafting " },
+    { "Category": " Pipe Cleaners", "Parent": " Craft Supplies " },
+    { "Category": " Cutting Tools ", "Parent": " Craft Supplies " },
+    { "Category": " Art Knives & Blades", "Parent": " Cutting Tools " },
+    { "Category": " Scissors", "Parent": " Cutting Tools " },
+    { "Category": " Adhesives ", "Parent": " Craft Supplies " },
+    { "Category": " Art Glues & Pastes", "Parent": " Adhesives " },
+    {
+        "Category": " Beading & Jewelry Making ",
+        "Parent": "Arts, Crafts & Sewing "
+    },
+    { "Category": " Beading Supplies ", "Parent": " Beading & Jewelry Making " },
+    { "Category": " Fuse & Perler Beads", "Parent": " Beading Supplies " },
+    {
+        "Category": " Beads & Bead Assortments",
+        "Parent": " Beading & Jewelry Making "
+    },
+    {
+        "Category": " Painting, Drawing & Art Supplies ",
+        "Parent": "Arts, Crafts & Sewing "
+    },
+    { "Category": " Drawing ", "Parent": " Painting, Drawing & Art Supplies " },
+    { "Category": " Drawing Media ", "Parent": " Drawing " },
+    { "Category": " Pencils", "Parent": " Drawing Media " },
+    { "Category": " Crayons", "Parent": " Drawing Media " },
+    { "Category": " Drawing & Lettering Aids", "Parent": " Drawing " },
+    { "Category": " Light Boxes", "Parent": " Drawing " },
+    { "Category": " Art Sets", "Parent": " Drawing " },
+    { "Category": " Painting ", "Parent": " Painting, Drawing & Art Supplies " },
+    { "Category": " Paintbrushes ", "Parent": " Painting " },
+    { "Category": " Paintbrush Sets", "Parent": " Paintbrushes " },
+    { "Category": " Foam Paintbrushes", "Parent": " Paintbrushes " },
+    { "Category": " Paint Finishes", "Parent": " Painting " },
+    { "Category": " Paint Pens, Markers & Daubers ", "Parent": " Painting " },
+    {
+        "Category": " Pens & Markers",
+        "Parent": " Paint Pens, Markers & Daubers "
+    },
+    { "Category": " Kits", "Parent": " Painting " },
+    { "Category": " Paint Mediums & Additives", "Parent": " Painting " },
+    { "Category": " Paints", "Parent": " Painting " },
+    { "Category": " Airbrush Materials", "Parent": " Painting " },
+    { "Category": " Drawing", "Parent": " Painting, Drawing & Art Supplies " },
+    { "Category": " Art Paper ", "Parent": " Painting, Drawing & Art Supplies " },
+    { "Category": " Drawing Paper", "Parent": " Art Paper " },
+    { "Category": " Easel Pads", "Parent": " Art Paper " },
+    { "Category": " Sewing ", "Parent": "Arts, Crafts & Sewing " },
+    { "Category": " Trim & Embellishments ", "Parent": " Sewing " },
+    {
+        "Category": " Appliques & Decorative Patches ",
+        "Parent": " Trim & Embellishments "
+    },
+    {
+        "Category": " Decorative Patches",
+        "Parent": " Appliques & Decorative Patches "
+    },
+    { "Category": " Piping", "Parent": " Trim & Embellishments " },
+    { "Category": " Ribbons", "Parent": " Trim & Embellishments " },
+    { "Category": " Storage & Furniture", "Parent": " Sewing " },
+    { "Category": " Printmaking ", "Parent": "Arts, Crafts & Sewing " },
+    {
+        "Category": " Relief & Block Printing Materials",
+        "Parent": " Printmaking "
+    },
+    { "Category": " Printing Presses & Accessories", "Parent": " Printmaking " },
+    {
+        "Category": " Scrapbooking & Stamping ",
+        "Parent": "Arts, Crafts & Sewing "
+    },
+    {
+        "Category": " Die-Cutting & Embossing ",
+        "Parent": " Scrapbooking & Stamping "
+    },
+    { "Category": " Die-Cuts", "Parent": " Die-Cutting & Embossing " },
+    {
+        "Category": " Stickers & Sticker Machines",
+        "Parent": " Scrapbooking & Stamping "
+    },
+    { "Category": " Scrapbooking Tools", "Parent": " Scrapbooking & Stamping " },
+    { "Category": " Needlework ", "Parent": "Arts, Crafts & Sewing " },
+    { "Category": " Cross-Stitch ", "Parent": " Needlework " },
+    { "Category": " Stamped Kits", "Parent": " Cross-Stitch " },
+    { "Category": " Latch Hook ", "Parent": " Needlework " },
+    { "Category": " Latch Hook Kits", "Parent": " Latch Hook " },
+    {
+        "Category": " Scrapbooking & Stamping",
+        "Parent": "Arts, Crafts & Sewing "
+    },
+    { "Category": " Fabric", "Parent": "Arts, Crafts & Sewing " },
+    { "Category": "Electronics ", "Parent": null },
+    { "Category": " Camera & Photo ", "Parent": "Electronics " },
+    { "Category": " Binoculars & Scopes ", "Parent": " Camera & Photo " },
+    { "Category": " Binoculars", "Parent": " Binoculars & Scopes " },
+    { "Category": " Microscopes ", "Parent": " Binoculars & Scopes " },
+    { "Category": " USB Microscopes", "Parent": " Microscopes " },
+    { "Category": " Accessories ", "Parent": " Camera & Photo " },
+    { "Category": " Lens Accessories ", "Parent": " Accessories " },
+    { "Category": " Lens Hoods", "Parent": " Lens Accessories " },
+    { "Category": " Video ", "Parent": " Camera & Photo " },
+    { "Category": " Camcorders", "Parent": " Video " },
+    { "Category": " Computers & Accessories ", "Parent": "Electronics " },
+    { "Category": " Tablet Accessories ", "Parent": " Computers & Accessories " },
+    { "Category": " Bags, Cases & Sleeves ", "Parent": " Tablet Accessories " },
+    { "Category": " Cases", "Parent": " Bags, Cases & Sleeves " },
+    { "Category": " Headphones ", "Parent": "Electronics " },
+    { "Category": " Over-Ear Headphones", "Parent": " Headphones " },
+    { "Category": " Portable Audio & Video ", "Parent": "Electronics " },
+    { "Category": " MP3 & MP4 Players", "Parent": " Portable Audio & Video " },
+    { "Category": "Video Games ", "Parent": null },
+    { "Category": " PlayStation 4 ", "Parent": "Video Games " },
+    { "Category": " Games", "Parent": " PlayStation 4 " },
+    { "Category": " Nintendo Switch ", "Parent": "Video Games " },
+    { "Category": " Games", "Parent": " Nintendo Switch " },
+    { "Category": " Legacy Systems ", "Parent": "Video Games " },
+    { "Category": " Nintendo NES ", "Parent": " Legacy Systems " },
+    { "Category": " Games", "Parent": " Nintendo NES " },
+    { "Category": " PC ", "Parent": "Video Games " },
+    { "Category": " Games", "Parent": " PC " },
+    { "Category": " Xbox One", "Parent": "Video Games " },
+    { "Category": "Patio, Lawn & Garden ", "Parent": null },
+    { "Category": " Outdoor D\u00e9cor ", "Parent": "Patio, Lawn & Garden " },
+    {
+        "Category": " Backyard Birding & Wildlife ",
+        "Parent": " Outdoor D\u00e9cor "
+    },
+    { "Category": " Butterflies", "Parent": " Backyard Birding & Wildlife " },
+    { "Category": " Yard Signs", "Parent": " Outdoor D\u00e9cor " },
+    {
+        "Category": " Garden Sculptures & Statues ",
+        "Parent": " Outdoor D\u00e9cor "
+    },
+    {
+        "Category": " Wind Sculptures & Spinners",
+        "Parent": " Garden Sculptures & Statues "
+    },
+    {
+        "Category": " Pools, Hot Tubs & Supplies ",
+        "Parent": "Patio, Lawn & Garden "
+    },
+    {
+        "Category": " Cleaning Tools & Chemicals ",
+        "Parent": " Pools, Hot Tubs & Supplies "
+    },
+    {
+        "Category": " Pool Vacuum Heads",
+        "Parent": " Cleaning Tools & Chemicals "
+    },
+    {
+        "Category": " Pool Maintenance Kits",
+        "Parent": " Cleaning Tools & Chemicals "
+    },
+    {
+        "Category": " Parts & Accessories ",
+        "Parent": " Pools, Hot Tubs & Supplies "
+    },
+    { "Category": " Safety Products", "Parent": " Parts & Accessories " },
+    {
+        "Category": " Patio Furniture & Accessories ",
+        "Parent": "Patio, Lawn & Garden "
+    },
+    {
+        "Category": " Patio Seating ",
+        "Parent": " Patio Furniture & Accessories "
+    },
+    { "Category": " Chairs ", "Parent": " Patio Seating " },
+    { "Category": " Adirondack Chairs", "Parent": " Chairs " },
+    { "Category": " Patio Dining Chairs", "Parent": " Chairs " },
+    { "Category": " Tables ", "Parent": " Patio Furniture & Accessories " },
+    { "Category": " Dining Tables", "Parent": " Tables " },
+    { "Category": " Gardening & Lawn Care ", "Parent": "Patio, Lawn & Garden " },
+    { "Category": " Hand Tools ", "Parent": " Gardening & Lawn Care " },
+    { "Category": " Soil Test Kits", "Parent": " Hand Tools " },
+    { "Category": " Watering Equipment ", "Parent": " Gardening & Lawn Care " },
+    { "Category": " Watering Cans", "Parent": " Watering Equipment " },
+    {
+        "Category": " Pools, Hot Tubs & Supplies",
+        "Parent": "Patio, Lawn & Garden "
+    },
+    { "Category": "Tools & Home Improvement ", "Parent": null },
+    { "Category": " Power & Hand Tools ", "Parent": "Tools & Home Improvement " },
+    {
+        "Category": " Power Tool Parts & Accessories ",
+        "Parent": " Power & Hand Tools "
+    },
+    {
+        "Category": " Power Rotary Tool Parts & Accessories ",
+        "Parent": " Power Tool Parts & Accessories "
+    },
+    {
+        "Category": " Attachments",
+        "Parent": " Power Rotary Tool Parts & Accessories "
+    },
+    { "Category": " Hand Tools ", "Parent": " Power & Hand Tools " },
+    { "Category": " Pliers ", "Parent": " Hand Tools " },
+    { "Category": " Needle-Nose Pliers", "Parent": " Pliers " },
+    { "Category": " Wrenches ", "Parent": " Hand Tools " },
+    { "Category": " Hex Keys", "Parent": " Wrenches " },
+    { "Category": " Tool Organizers ", "Parent": " Power & Hand Tools " },
+    { "Category": " Tool Chests & Cabinets", "Parent": " Tool Organizers " },
+    {
+        "Category": " Lighting & Ceiling Fans ",
+        "Parent": "Tools & Home Improvement "
+    },
+    { "Category": " Wall Lights ", "Parent": " Lighting & Ceiling Fans " },
+    { "Category": " Night Lights", "Parent": " Wall Lights " },
+    { "Category": " Lamps & Shades ", "Parent": " Lighting & Ceiling Fans " },
+    { "Category": " Table Lamps", "Parent": " Lamps & Shades " },
+    { "Category": " Hardware ", "Parent": "Tools & Home Improvement " },
+    { "Category": " Adhesives & Sealers ", "Parent": " Hardware " },
+    { "Category": " Wood Filler", "Parent": " Adhesives & Sealers " },
+    { "Category": " Mailboxes & Accessories ", "Parent": " Hardware " },
+    {
+        "Category": " Post-Mount Mailboxes",
+        "Parent": " Mailboxes & Accessories "
+    },
+    {
+        "Category": " Paint, Wall Treatments & Supplies ",
+        "Parent": "Tools & Home Improvement "
+    },
+    {
+        "Category": " Wall Stickers & Murals",
+        "Parent": " Paint, Wall Treatments & Supplies "
+    },
+    { "Category": " Electrical ", "Parent": "Tools & Home Improvement " },
+    { "Category": " Testers ", "Parent": " Electrical " },
+    { "Category": " Multi Testers", "Parent": " Testers " },
+    { "Category": " Circuit Testers", "Parent": " Testers " },
+    { "Category": "Office Products ", "Parent": null },
+    { "Category": " Office & School Supplies", "Parent": "Office Products " },
+    { "Category": " Office & School Supplies ", "Parent": "Office Products " },
+    { "Category": " Paper ", "Parent": " Office & School Supplies " },
+    { "Category": " Notebooks & Writing Pads ", "Parent": " Paper " },
+    { "Category": " Chart Tablets", "Parent": " Notebooks & Writing Pads " },
+    { "Category": " Subject Notebooks", "Parent": " Notebooks & Writing Pads " },
+    { "Category": " Cards & Card Stock ", "Parent": " Paper " },
+    { "Category": " Greeting Cards", "Parent": " Cards & Card Stock " },
+    {
+        "Category": " Education & Crafts ",
+        "Parent": " Office & School Supplies "
+    },
+    {
+        "Category": " Early Childhood Education Materials",
+        "Parent": " Education & Crafts "
+    },
+    { "Category": " Arts & Crafts Supplies ", "Parent": " Education & Crafts " },
+    {
+        "Category": " Classroom Decorations ",
+        "Parent": " Arts & Crafts Supplies "
+    },
+    { "Category": " Wall Cut-Outs", "Parent": " Classroom Decorations " },
+    { "Category": " Banners", "Parent": " Classroom Decorations " },
+    { "Category": " Borders & Trimmers", "Parent": " Classroom Decorations " },
+    {
+        "Category": " Educational Charts & Posters",
+        "Parent": " Classroom Decorations "
+    },
+    {
+        "Category": " Classroom Science Supplies",
+        "Parent": " Education & Crafts "
+    },
+    { "Category": " Math Materials", "Parent": " Education & Crafts " },
+    { "Category": " Students Scissors", "Parent": " Education & Crafts " },
+    { "Category": " Teaching Materials ", "Parent": " Education & Crafts " },
+    {
+        "Category": " Awards & Incentives Supplies",
+        "Parent": " Teaching Materials "
+    },
+    {
+        "Category": " Teachers Calendars & Planners",
+        "Parent": " Teaching Materials "
+    },
+    { "Category": " Drafting Tools & Kits", "Parent": " Teaching Materials " },
+    { "Category": " Teaching Materials", "Parent": " Education & Crafts " },
+    { "Category": " Classroom Furniture ", "Parent": " Education & Crafts " },
+    { "Category": " Cubbies", "Parent": " Classroom Furniture " },
+    { "Category": " Classroom Furniture", "Parent": " Education & Crafts " },
+    { "Category": " Education & Crafts", "Parent": " Office & School Supplies " },
+    {
+        "Category": " Labels, Indexes & Stamps ",
+        "Parent": " Office & School Supplies "
+    },
+    {
+        "Category": " Identification Badges & Supplies ",
+        "Parent": " Labels, Indexes & Stamps "
+    },
+    {
+        "Category": " Badge Lanyards",
+        "Parent": " Identification Badges & Supplies "
+    },
+    {
+        "Category": " Writing & Correction Supplies ",
+        "Parent": " Office & School Supplies "
+    },
+    { "Category": " Pencils ", "Parent": " Writing & Correction Supplies " },
+    { "Category": " Wooden Colored Pencils", "Parent": " Pencils " },
+    {
+        "Category": " Markers & Highlighters",
+        "Parent": " Writing & Correction Supplies "
+    },
+    {
+        "Category": " Erasers & Correction Products ",
+        "Parent": " Writing & Correction Supplies "
+    },
+    { "Category": " Erasers ", "Parent": " Erasers & Correction Products " },
+    { "Category": " Standard Pencil Erasers", "Parent": " Erasers " },
+    {
+        "Category": " Pens & Refills ",
+        "Parent": " Writing & Correction Supplies "
+    },
+    { "Category": " Pen Refills", "Parent": " Pens & Refills " },
+    {
+        "Category": " Desk Accessories & Workspace Organizers ",
+        "Parent": " Office & School Supplies "
+    },
+    {
+        "Category": " Paperweights",
+        "Parent": " Desk Accessories & Workspace Organizers "
+    },
+    {
+        "Category": " Desk Supplies Holders & Dispensers ",
+        "Parent": " Desk Accessories & Workspace Organizers "
+    },
+    {
+        "Category": " Self-Stick Note Pad Holders",
+        "Parent": " Desk Supplies Holders & Dispensers "
+    },
+    {
+        "Category": " Presentation Boards ",
+        "Parent": " Office & School Supplies "
+    },
+    { "Category": " Bulletin Boards", "Parent": " Presentation Boards " },
+    {
+        "Category": " Writing & Correction Supplies",
+        "Parent": " Office & School Supplies "
+    },
+    { "Category": " Office Electronics ", "Parent": "Office Products " },
+    { "Category": " Printers & Accessories ", "Parent": " Office Electronics " },
+    {
+        "Category": " Printer Parts & Accessories",
+        "Parent": " Printers & Accessories "
+    },
+    { "Category": "Grocery & Gourmet Food ", "Parent": null },
+    { "Category": " Pantry Staples ", "Parent": "Grocery & Gourmet Food " },
+    { "Category": " Cooking & Baking ", "Parent": " Pantry Staples " },
+    {
+        "Category": " Frosting, Icing & Decorations ",
+        "Parent": " Cooking & Baking "
+    },
+    { "Category": " Cake Toppers", "Parent": " Frosting, Icing & Decorations " },
+    {
+        "Category": " Cupcake Toppers",
+        "Parent": " Frosting, Icing & Decorations "
+    },
+    {
+        "Category": " Canned, Jarred & Packaged Foods ",
+        "Parent": " Pantry Staples "
+    },
+    {
+        "Category": " Packaged Meals & Side Dishes ",
+        "Parent": " Canned, Jarred & Packaged Foods "
+    },
+    {
+        "Category": " Macaroni & Cheese",
+        "Parent": " Packaged Meals & Side Dishes "
+    },
+    { "Category": "Remote & App Controlled Vehicle Parts ", "Parent": null },
+    {
+        "Category": " Power Plant & Driveline Systems ",
+        "Parent": "Remote & App Controlled Vehicle Parts "
+    },
+    {
+        "Category": " Transmissions & Differentials ",
+        "Parent": " Power Plant & Driveline Systems "
+    },
+    { "Category": " Transmissions", "Parent": " Transmissions & Differentials " },
+    { "Category": " Gear Boxes", "Parent": " Transmissions & Differentials " },
+    { "Category": " Differentials", "Parent": " Transmissions & Differentials " },
+    {
+        "Category": " Electric Motors & Parts ",
+        "Parent": " Power Plant & Driveline Systems "
+    },
+    { "Category": " Complete Motors", "Parent": " Electric Motors & Parts " },
+    {
+        "Category": " Combustion Engines & Parts ",
+        "Parent": " Power Plant & Driveline Systems "
+    },
+    { "Category": " Starters & Parts", "Parent": " Combustion Engines & Parts " },
+    { "Category": " Complete Engines", "Parent": " Combustion Engines & Parts " },
+    {
+        "Category": " Gaskets & O-Rings",
+        "Parent": " Combustion Engines & Parts "
+    },
+    {
+        "Category": " Fuel System Parts",
+        "Parent": " Combustion Engines & Parts "
+    },
+    { "Category": " Pistons & Parts", "Parent": " Combustion Engines & Parts " },
+    {
+        "Category": " Suspension Systems & Parts ",
+        "Parent": " Power Plant & Driveline Systems "
+    },
+    { "Category": " Shock Springs", "Parent": " Suspension Systems & Parts " },
+    { "Category": "Health & Household ", "Parent": null },
+    { "Category": " Household Supplies ", "Parent": "Health & Household " },
+    { "Category": " Paper & Plastic ", "Parent": " Household Supplies " },
+    {
+        "Category": " Disposable Plates, Bowls & Cutlery ",
+        "Parent": " Paper & Plastic "
+    },
+    { "Category": " Plates", "Parent": " Disposable Plates, Bowls & Cutlery " },
+    { "Category": " Forks", "Parent": " Disposable Plates, Bowls & Cutlery " },
+    { "Category": " Disposable Drinkware ", "Parent": " Paper & Plastic " },
+    { "Category": " Straws", "Parent": " Disposable Drinkware " },
+    { "Category": " Cups", "Parent": " Disposable Drinkware " },
+    {
+        "Category": " Disposable Plates, Bowls & Cutlery",
+        "Parent": " Paper & Plastic "
+    },
+    { "Category": " Disposable Napkins", "Parent": " Paper & Plastic " },
+    {
+        "Category": " Toilet Paper, Wipes & Sprays ",
+        "Parent": " Paper & Plastic "
+    },
+    { "Category": " Toilet Paper", "Parent": " Toilet Paper, Wipes & Sprays " },
+    {
+        "Category": " Medical Supplies & Equipment ",
+        "Parent": "Health & Household "
+    },
+    {
+        "Category": " Mobility & Daily Living Aids ",
+        "Parent": " Medical Supplies & Equipment "
+    },
+    {
+        "Category": " Visual Impairment Aids ",
+        "Parent": " Mobility & Daily Living Aids "
+    },
+    { "Category": " Magnifiers", "Parent": " Visual Impairment Aids " },
+    {
+        "Category": " Occupational & Physical Therapy Aids ",
+        "Parent": " Medical Supplies & Equipment "
+    },
+    {
+        "Category": " Sensory Motor Aids",
+        "Parent": " Occupational & Physical Therapy Aids "
+    },
+    {
+        "Category": " Stationery & Gift Wrapping Supplies ",
+        "Parent": "Health & Household "
+    },
+    {
+        "Category": " Stationery ",
+        "Parent": " Stationery & Gift Wrapping Supplies "
+    },
+    { "Category": " Letter Writing Stationery", "Parent": " Stationery " },
+    { "Category": "Industrial & Scientific ", "Parent": null },
+    { "Category": " Fasteners ", "Parent": "Industrial & Scientific " },
+    { "Category": " Screw & Bolt Assortment Sets", "Parent": " Fasteners " },
+    { "Category": " Nuts ", "Parent": " Fasteners " },
+    { "Category": " Wing Nuts", "Parent": " Nuts " },
+    { "Category": " Science Education ", "Parent": "Industrial & Scientific " },
+    { "Category": " Specimens", "Parent": " Science Education " },
+    { "Category": " Charts & Posters", "Parent": " Science Education " },
+    { "Category": " Insects & Insect Kits", "Parent": " Science Education " },
+    {
+        "Category": " Professional Medical Supplies ",
+        "Parent": "Industrial & Scientific "
+    },
+    {
+        "Category": " Furniture & Patient Transport ",
+        "Parent": " Professional Medical Supplies "
+    },
+    { "Category": " Carts", "Parent": " Furniture & Patient Transport " },
+    {
+        "Category": " Examination Supplies & Consumables",
+        "Parent": " Professional Medical Supplies "
+    },
+    {
+        "Category": " Power Transmission Products ",
+        "Parent": "Industrial & Scientific "
+    },
+    {
+        "Category": " Pulleys & Sheaves",
+        "Parent": " Power Transmission Products "
+    },
+    {
+        "Category": " Lab & Scientific Products ",
+        "Parent": "Industrial & Scientific "
+    },
+    {
+        "Category": " Lab Instruments & Equipment ",
+        "Parent": " Lab & Scientific Products "
+    },
+    {
+        "Category": " Microscopes & Equipment ",
+        "Parent": " Lab Instruments & Equipment "
+    },
+    {
+        "Category": " Microscope Accessories ",
+        "Parent": " Microscopes & Equipment "
+    },
+    { "Category": " Slide Holders", "Parent": " Microscope Accessories " },
+    { "Category": " Slide Cover Slips", "Parent": " Microscope Accessories " },
+    {
+        "Category": " Industrial Electrical ",
+        "Parent": "Industrial & Scientific "
+    },
+    {
+        "Category": " Semiconductor Products ",
+        "Parent": " Industrial Electrical "
+    },
+    { "Category": " Interfaces ", "Parent": " Semiconductor Products " },
+    { "Category": " Prototyping Boards & Accessories", "Parent": " Interfaces " },
+    { "Category": " Passive Components ", "Parent": " Industrial Electrical " },
+    { "Category": " Capacitors", "Parent": " Passive Components " },
+    {
+        "Category": " Adhesives, Sealants & Lubricants ",
+        "Parent": "Industrial & Scientific "
+    },
+    {
+        "Category": " Contact Cements",
+        "Parent": " Adhesives, Sealants & Lubricants "
+    },
+    { "Category": " Science Education", "Parent": "Industrial & Scientific " },
+    { "Category": "Beauty & Personal Care ", "Parent": null },
+    {
+        "Category": " Foot, Hand & Nail Care ",
+        "Parent": "Beauty & Personal Care "
+    },
+    { "Category": " Nail Art & Polish ", "Parent": " Foot, Hand & Nail Care " },
+    { "Category": " Nail Art Accessories ", "Parent": " Nail Art & Polish " },
+    { "Category": " Nail Art Equipment", "Parent": " Nail Art Accessories " },
+    { "Category": " Glitters", "Parent": " Nail Art Accessories " },
+    { "Category": " Tools & Accessories ", "Parent": " Foot, Hand & Nail Care " },
+    { "Category": " Sets & Kits", "Parent": " Tools & Accessories " },
+    { "Category": " Nail Tools ", "Parent": " Tools & Accessories " },
+    { "Category": " Nail Clippers", "Parent": " Nail Tools " },
+    { "Category": " Makeup ", "Parent": "Beauty & Personal Care " },
+    { "Category": " Makeup Sets", "Parent": " Makeup " },
+    { "Category": " Tools & Accessories ", "Parent": "Beauty & Personal Care " },
+    { "Category": " Makeup Brushes & Tools ", "Parent": " Tools & Accessories " },
+    { "Category": " Eye ", "Parent": " Makeup Brushes & Tools " },
+    { "Category": " False Eyelashes & Adhesives", "Parent": " Eye " },
+    { "Category": " Hair Care ", "Parent": "Beauty & Personal Care " },
+    { "Category": " Extensions, Wigs & Accessories ", "Parent": " Hair Care " },
+    {
+        "Category": " Hair Extensions",
+        "Parent": " Extensions, Wigs & Accessories "
+    },
+    { "Category": " Wigs", "Parent": " Extensions, Wigs & Accessories " },
+    { "Category": " Skin Care ", "Parent": "Beauty & Personal Care " },
+    { "Category": " Lip Care ", "Parent": " Skin Care " },
+    { "Category": " Balms & Moisturizers", "Parent": " Lip Care " },
+    { "Category": " Personal Care ", "Parent": "Beauty & Personal Care " },
+    { "Category": " Bath & Bathing Accessories ", "Parent": " Personal Care " },
+    { "Category": " Bath ", "Parent": " Bath & Bathing Accessories " },
+    { "Category": " Bath Bombs", "Parent": " Bath " },
+    { "Category": "Hobbies ", "Parent": null },
+    {
+        "Category": " Remote & App Controlled Vehicles & Parts ",
+        "Parent": "Hobbies "
+    },
+    {
+        "Category": " Remote & App Controlled Vehicle Parts ",
+        "Parent": " Remote & App Controlled Vehicles & Parts "
+    },
+    {
+        "Category": " Vehicle Bodies & Scale Accessories ",
+        "Parent": " Remote & App Controlled Vehicle Parts "
+    },
+    {
+        "Category": " Car & Truck Bodies",
+        "Parent": " Vehicle Bodies & Scale Accessories "
+    },
+    {
+        "Category": " Car & Truck Bumpers",
+        "Parent": " Vehicle Bodies & Scale Accessories "
+    },
+    {
+        "Category": " Vehicle Scale Accessories",
+        "Parent": " Vehicle Bodies & Scale Accessories "
+    },
+    {
+        "Category": " Power Plant & Driveline Systems ",
+        "Parent": " Remote & App Controlled Vehicle Parts "
+    },
+    {
+        "Category": " Electric Speed Controllers",
+        "Parent": " Power Plant & Driveline Systems "
+    },
+    {
+        "Category": " Suspension Systems & Parts",
+        "Parent": " Power Plant & Driveline Systems "
+    },
+    {
+        "Category": " Electric Motors & Parts",
+        "Parent": " Power Plant & Driveline Systems "
+    },
+    { "Category": "Remote & App Controlled Vehicles & Parts ", "Parent": null },
+    {
+        "Category": " Remote & App Controlled Vehicle Parts ",
+        "Parent": "Remote & App Controlled Vehicles & Parts "
+    },
+    {
+        "Category": " Power Plant & Driveline Systems ",
+        "Parent": " Remote & App Controlled Vehicle Parts "
+    },
+    {
+        "Category": " Suspension Systems & Parts ",
+        "Parent": " Power Plant & Driveline Systems "
+    },
+    { "Category": " Shock Kits", "Parent": " Suspension Systems & Parts " },
+    { "Category": " A-Arms", "Parent": " Suspension Systems & Parts " },
+    { "Category": " Sway Parts", "Parent": " Suspension Systems & Parts " },
+    {
+        "Category": " Electric Motors & Parts ",
+        "Parent": " Power Plant & Driveline Systems "
+    },
+    { "Category": " Motor Mounts", "Parent": " Electric Motors & Parts " },
+    { "Category": " Cooling Fans", "Parent": " Electric Motors & Parts " },
+    {
+        "Category": " Transmissions & Differentials ",
+        "Parent": " Power Plant & Driveline Systems "
+    },
+    { "Category": " Gears", "Parent": " Transmissions & Differentials " },
+    {
+        "Category": " Combustion Engines & Parts ",
+        "Parent": " Power Plant & Driveline Systems "
+    },
+    { "Category": " Air Filters", "Parent": " Combustion Engines & Parts " },
+    { "Category": "Automotive ", "Parent": null },
+    { "Category": " Interior Accessories ", "Parent": "Automotive " },
+    { "Category": " Keychains", "Parent": " Interior Accessories " },
+    { "Category": " Exterior Accessories ", "Parent": "Automotive " },
+    {
+        "Category": " Bumper Stickers, Decals & Magnets",
+        "Parent": " Exterior Accessories "
+    },
+    { "Category": " Replacement Parts", "Parent": "Automotive " },
+    { "Category": " Replacement Parts ", "Parent": "Automotive " },
+    {
+        "Category": " Shocks, Struts & Suspension ",
+        "Parent": " Replacement Parts "
+    },
+    { "Category": " Chassis", "Parent": " Shocks, Struts & Suspension " },
+    { "Category": " Starters & Alternators ", "Parent": " Replacement Parts " },
+    {
+        "Category": " Alternators & Generators ",
+        "Parent": " Starters & Alternators "
+    },
+    { "Category": " Brackets", "Parent": " Alternators & Generators " },
+    { "Category": "Musical Instruments ", "Parent": null },
+    {
+        "Category": " Microphones & Accessories ",
+        "Parent": "Musical Instruments "
+    },
+    { "Category": " Microphones", "Parent": " Microphones & Accessories " },
+    { "Category": " Drums & Percussion ", "Parent": "Musical Instruments " },
+    { "Category": " Hand Percussion ", "Parent": " Drums & Percussion " },
+    { "Category": " Folk & World ", "Parent": " Hand Percussion " },
+    { "Category": " Maracas & Shakers ", "Parent": " Folk & World " },
+    { "Category": " Shakers", "Parent": " Maracas & Shakers " },
+    { "Category": "Movies & TV ", "Parent": null },
+    { "Category": " Blu-ray ", "Parent": "Movies & TV " },
+    { "Category": " Movies", "Parent": " Blu-ray " },
+    { "Category": "Cell Phones & Accessories ", "Parent": null },
+    { "Category": " Accessories ", "Parent": "Cell Phones & Accessories " },
+    { "Category": " Phone Charms", "Parent": " Accessories " }
+]
