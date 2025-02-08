@@ -1,3 +1,4 @@
+import { Types } from "mongoose";
 import ICategory from "../interface/category.interface";
 import Category from "../model/category.model";
 
@@ -60,4 +61,10 @@ const addNewChildren = async (parent: string, childrenID: string) : Promise<ICat
     throw error;
   }
 };
-export { storeCategory, getAllCategories, getCategoryBySlug, addNewChildren };
+
+
+const getCategoryByids = async(slug: string[]): Promise<ICategory[]> => {
+    const category : any = await Category.find({_id: {$in: slug}}).lean<ICategory>();
+    return Promise.all(category.map(populateCategories));
+}
+export { storeCategory, getAllCategories, getCategoryBySlug, addNewChildren, getCategoryByids };

@@ -1,0 +1,11 @@
+version: "2"
+authtoken: 2pQhvspjK7mjuOUtSCeXcE1Ic3J_7owevtJrtFoqGFDEesMQM
+tunnels: 
+  first: 
+    proto: http 
+    addr: http://localhost:3000 
+    host_header: rewrite
+  second: 
+    proto: http 
+    addr: http://localhost:3001
+    host_header: rewrite
