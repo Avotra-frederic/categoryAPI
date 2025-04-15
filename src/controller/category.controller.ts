@@ -6,11 +6,9 @@ const createCategory = expressAsyncHandler(async(req: Request, res: Response)=>{
     const { parentId } = req.params;
     const data = req.body;
     const parent = await getCategoryBySlug(parentId);
-    if(!parent){
-        res.status(400).json({status:"failed", message:"Parent category not found"});
-        return;
+    if(parent){
+        Object.assign(data, {parent: parent._id});
     }
-    Object.assign(data, {parent: parent._id});
     const category = await storeCategory(data);
     if(!category){
         res.status(400).json({status:"failed", message:"Cannot create category"});
