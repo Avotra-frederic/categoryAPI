@@ -13,17 +13,15 @@ app.use(morgan("dev"));
 app.use(helmet());
 app.use(hpp());
 
-app.use((err: Error, req: Request, res: Response, next: NextFunction) => {
-    console.error(err.stack);
-    res.status(500).send('Something broke!');
-});
-
-
 app.get("/", (req: Request, res: Response) => {
     res.status(200).json({message:"thank you for use fullcoding API"});
 })
 
 app.use("/api/v1",categoryRoutes);
+app.use((err: Error, _req: Request, res: Response, _next: NextFunction) => {
+    console.error(err.stack);
+    res.status(500).json({ status: "Error", message: "Internal Server Error" });
+});
 
 
 export default app;

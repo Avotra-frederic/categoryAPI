@@ -1,6 +1,5 @@
 {
   "name": "categoryAPI",
-  "packageManager": "yarn@4.5.2",
   "dependencies": {
     "@types/bcryptjs": "^2.4.6",
     "agenda": "^5.0.0",

@@ -3,7 +3,7 @@ import mongoDBConnection from "./config/database";
 import data from "./data/category_dataset.json";
 import Category from "./model/category.model";
 
-const PORT = process.env.PORT || 0;
+const PORT = process.env.PORT || 3001;
 
 mongoDBConnection().then(async()=>{
     const count = await Category.countDocuments();
@@ -44,7 +44,7 @@ mongoDBConnection().then(async()=>{
             console.error("Erreur lors de l'importation des catégories :", error);
           }
     }
-    app.listen(PORT, () => {
+    app.listen(PORT, "127.0.0.1", () => {
         console.log(`Server running on http://localhost:${PORT}`);
     });
 })
