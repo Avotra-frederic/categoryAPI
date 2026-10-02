@@ -3,7 +3,7 @@ import mongoDBConnection from "./config/database";
 import data from "./data/category_dataset.json";
 import Category from "./model/category.model";
 
-const PORT = process.env.PORT || 3001;
+const PORT = Number(process.env.PORT ?? 3001);
 
 mongoDBConnection().then(async()=>{
     const count = await Category.countDocuments();
