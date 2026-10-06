@@ -15,7 +15,7 @@ const createCategory = expressAsyncHandler(async(req: Request, res: Response)=>{
         return;
     }
     if(parent){
-        await addNewChildren(parent._id as string, category._id as string);
+        await addNewChildren(String(parent._id), String(category._id));
     }
     res.status(201).json({status:"Success",message:"New category added successfuly", category});
 })
