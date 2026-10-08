@@ -65,3 +65,6 @@ Ce projet est destiné à être **libre et open source**. Aucun fichier `LICENSE
 Software Engineering · Full-stack web & mobile · Backend & Software Architecture · Automation & AI
 
 [GitHub](https://github.com/avotra-frederic) · [LinkedIn](https://linkedin.com/in/avotra-frederic) · [fred.avotra@gmail.com](mailto:fred.avotra@gmail.com)
+# Accès d’administration
+
+Les routes de lecture du catalogue restent publiques. Par défaut, les routes d’écriture `POST /api/v1/store/category` et `POST /api/v1/:parentId/add` restent compatibles avec les installations open source sans configuration supplémentaire. Un opérateur peut choisir de les protéger en définissant `CATEGORY_API_ADMIN_TOKEN` ; dans ce cas, les appels d’écriture doivent envoyer `Authorization: Bearer <CATEGORY_API_ADMIN_TOKEN>`. Ne transmettez jamais ce secret au frontend.

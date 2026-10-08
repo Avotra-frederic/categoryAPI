@@ -4,12 +4,26 @@ import { addNewChildren, getAllCategories, getCategoryByids, getCategoryBySlug, 
 
 const createCategory = expressAsyncHandler(async(req: Request, res: Response)=>{
     const { parentId } = req.params;
-    const data = req.body;
-    const parent = await getCategoryBySlug(parentId);
-    if(parent){
-        Object.assign(data, {parent: parent._id});
+    const { name, slug } = req.body ?? {};
+    if (typeof name !== "string" || name.trim().length < 2 || name.trim().length > 80 || typeof slug !== "string" || !/^[a-z0-9]+(?:-[a-z0-9]+)*$/.test(slug)) {
+        res.status(400).json({status:"Failed", message:"Nom ou identifiant de catégorie invalide"});
+        return;
     }
-    const category = await storeCategory(data);
+    const parent = parentId ? await getCategoryBySlug(parentId) : null;
+    if (parentId && !parent) {
+        res.status(404).json({status:"Failed", message:"Catégorie parente introuvable"});
+        return;
+    }
+    const data = { name: name.trim(), slug, ...(parent ? { parent: parent._id } : {}) };
+    let category;
+    try { category = await storeCategory(data as any); }
+    catch (error) {
+        if ((error as { code?: number }).code === 11000) {
+            res.status(409).json({status:"Failed", message:"Cet identifiant de catégorie existe déjà"});
+            return;
+        }
+        throw error;
+    }
     if(!category){
         res.status(400).json({status:"failed", message:"Cannot create category"});
         return;
