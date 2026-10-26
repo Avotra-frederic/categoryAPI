@@ -14,6 +14,10 @@ const categoryScheme = new Schema<ICategory>({
         lowercase: true,
         trim: true
       },
+      translations: {
+        fr: { type: String, trim: true, maxlength: 120 },
+        en: { type: String, trim: true, maxlength: 120 },
+      },
       parent: {
         type: mongoose.Schema.Types.ObjectId,
         ref: 'Category',

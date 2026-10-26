@@ -1,5 +1,5 @@
 import { Router } from "express";
-import { createCategory, findAllCategoryByArrayId, getCategory } from "../controller/category.controller";
+import { createCategory, findAllCategoryByArrayId, getCategory, setCategoryTranslations } from "../controller/category.controller";
 import categoryAdmin from "../middleware/category-admin.middleware";
 
 const categoryRoutes = Router();
@@ -9,4 +9,5 @@ categoryRoutes.post("/:parentId/add", categoryAdmin, createCategory);
 categoryRoutes.get("/all/category",getCategory);
 categoryRoutes.get("/:parentId/category",getCategory);
 categoryRoutes.post("/find/category",findAllCategoryByArrayId);
+categoryRoutes.put("/:slug/translations", categoryAdmin, setCategoryTranslations);
 export default categoryRoutes;

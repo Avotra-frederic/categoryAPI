@@ -67,4 +67,7 @@ const getCategoryByids = async(slug: string[]): Promise<ICategory[]> => {
     const category : any = await Category.find({_id: {$in: slug}}).lean<ICategory>();
     return Promise.all(category.map(populateCategories));
 }
-export { storeCategory, getAllCategories, getCategoryBySlug, addNewChildren, getCategoryByids };
+const updateCategoryTranslations = async (slug: string, translations: { fr?: string; en?: string }) => {
+  return Category.findOneAndUpdate({ slug }, { $set: { translations } }, { new: true, runValidators: true }).lean<ICategory>();
+};
+export { storeCategory, getAllCategories, getCategoryBySlug, addNewChildren, getCategoryByids, updateCategoryTranslations };
